@@ -1,6 +1,6 @@
 # Table of contents
 
-* [主页](README.md)
+* [首页](README.md)
 * [快速使用蓝湖](uhjkhkj/README.md)
   * [一.上传设计图](uhjkhkj/222/README.md)
     * [1. Sketch 插件](uhjkhkj/222/1.-sketch-cha-jian.md)
