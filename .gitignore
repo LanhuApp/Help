@@ -4,3 +4,4 @@ node_modules/gitbook-plugin-expandable-chapters-small
 .npmignore
 node_modules/gitbook-plugin-theme-comscore
 fabfile.pyc
+node_modules/*
