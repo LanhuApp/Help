@@ -29,9 +29,12 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["expandable-chapters-small"],
+    "plugins": ["expandable-chapters-small","iframely"],
     "pluginsConfig": {
-        "expandable-chapters-small":{}
+        "expandable-chapters-small":{},
+        "iframely": {
+            "apiKey": "3aa2b54b75084f8ac0361d"
+        }
     },
     "title": "Lanhu-help",
     "variables": {}
