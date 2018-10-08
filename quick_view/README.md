@@ -14,8 +14,6 @@
 {{ 'https://vimeo.com/31942602' | iframely }}
 ```
 
-
-
 ```text
 {{ 'https://vimeo.com/31942602' | iframely }}
 ```
@@ -24,7 +22,7 @@
 
 {{'http://player.youku.com/embed/XMzczOTMwMjQ5Ng==' \| iframely}}
 
-
+&lt;video src="[https://lanhustatic.oss-cn-beijing.aliyuncs.com/video/banner.mp4](https://lanhustatic.oss-cn-beijing.aliyuncs.com/video/banner.mp4)" &gt;&lt;/video&gt;
 
 
 
