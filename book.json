@@ -29,7 +29,7 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["expandable-chapters-small","iframely"],
+    "plugins": ["expandable-chapters-small","iframely","chinese-video","local-video","html5-video"],
     "pluginsConfig": {
         "expandable-chapters-small":{},
         "iframely": {
