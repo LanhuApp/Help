@@ -16,6 +16,19 @@
 {{ 'https://vimeo.com/31942602' | iframely }}
 ```
 
-{% video controls="controls" %}http://d.lanhuapp.com/banner.mp4{% endvideo %}
+&lt;video controls width="100%" src="http://d.lanhuapp.com/banner.mp4"&gt;&lt;/video&gt;
+
+```text
+<video controls width="100%" src="http://d.lanhuapp.com/banner.mp4"></video>
+```
+
+{% raw %} 
+
+&lt;video controls width="100%" src="http://d.lanhuapp.com/banner.mp4"&gt;&lt;/video&gt;
+
+{% endraw %}
+
+
+
 
 
