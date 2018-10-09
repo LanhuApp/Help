@@ -2,7 +2,7 @@
 
 
 
-{% video controls="controls" %}http://d.lanhuapp.com/update_ps.mp4{% endvideo %}
+{% video controls="controls", autoplay="autoplay",width="300" %}http://d.lanhuapp.com/update_ps.mp4{% endvideo %}
 
 
 
