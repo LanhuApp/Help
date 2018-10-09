@@ -1,8 +1,14 @@
 # 快速使用蓝湖
 
+```text
+<div>3333</div>
+```
+<video  controls src="http://d.lanhuapp.com/proto.mp4"></video>
 
 
-{% video controls="controls", autoplay="autoplay",width="300" %}http://d.lanhuapp.com/update_ps.mp4{% endvideo %}
+[http://d.lanhuapp.com/proto.mp4](http://d.lanhuapp.com/proto.mp4)
 
+[http://d.lanhuapp.com/proto.mp4](http://d.lanhuapp.com/proto.mp4)
 
+[http://d.lanhuapp.com/proto.mp4](http://d.lanhuapp.com/proto.mp4)
 
