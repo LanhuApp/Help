@@ -16,6 +16,6 @@
 {{ 'https://vimeo.com/31942602' | iframely }}
 ```
 
-{% video controls="controls" %}http://d.lanhuapp.com/banner.mp4{% endvideo %}
+{% video controls="controls" %}http://d.lanhuapp.com/update_ps.mp4{% endvideo %}
 
 
