@@ -29,7 +29,7 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["expandable-chapters-small"],
+    "plugins": ["expandable-chapters-small","html5-video"],
     "pluginsConfig": {
         "expandable-chapters-small":{}
     },

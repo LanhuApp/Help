@@ -18,4 +18,4 @@
 
 {% video controls="controls" %}http://d.lanhuapp.com/banner.mp4{% endvideo %}
 
-This is [an example](http://example.com/ "Title") inline link with a title.
+
