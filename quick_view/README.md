@@ -16,5 +16,8 @@
 {{ 'https://vimeo.com/31942602' | iframely }}
 ```
 
-{% video controls="controls" %}http://d.lanhuapp.com/banner.mp4{% endvideo %}
 
+This is [an example](http://example.com/ "Title") inline link with a title.
+
+
+<video controls width="100%" src="http://d.lanhuapp.com/banner.mp4"></video>

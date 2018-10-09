@@ -29,12 +29,9 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["expandable-chapters-small","iframely","chinese-video","local-video","html5-video"],
+    "plugins": ["expandable-chapters-small"],
     "pluginsConfig": {
-        "expandable-chapters-small":{},
-        "iframely": {
-            "apiKey": "3aa2b54b75084f8ac0361d"
-        }
+        "expandable-chapters-small":{}
     },
     "title": "Lanhu-help",
     "variables": {}
