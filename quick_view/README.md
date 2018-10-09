@@ -18,3 +18,7 @@
 
 &lt;video controls width="100%" src="http://d.lanhuapp.com/banner.mp4"&gt;&lt;/video&gt;
 
+```text
+<video controls width="100%" src="http://d.lanhuapp.com/banner.mp4"></video>
+```
+
