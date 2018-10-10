@@ -8,8 +8,6 @@
 
 ![](https://images-cdn.shimo.im/5aRdfn23HKcrT4d7/7.gif)
 
-\*\*\*\*
-
 设置好的切图，会跟随页面一同上传至蓝湖 Web 端，可看标注，并下载切图。 
 
 

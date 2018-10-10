@@ -6,7 +6,7 @@
 
 ![](https://images-cdn.shimo.im/nJUQsMoa8hULC6mt/2.png!thumbnail)
 
-\*\*\*\*
+
 
 输入蓝湖帐号、密码登录； 
 
@@ -14,7 +14,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/jaStUtDX860ayql0/3.png!thumbnail)
+![](../../../.gitbook/assets/3%20%282%29.png)
 
 \*\*\*\*
 

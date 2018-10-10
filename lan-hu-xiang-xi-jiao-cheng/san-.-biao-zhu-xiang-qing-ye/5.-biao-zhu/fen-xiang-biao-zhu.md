@@ -6,5 +6,5 @@
 
 ![](https://images-cdn.shimo.im/PtaehDGNflQgngQN/16.gif)
 
-**（图16）**
+\*\*\*\*
 

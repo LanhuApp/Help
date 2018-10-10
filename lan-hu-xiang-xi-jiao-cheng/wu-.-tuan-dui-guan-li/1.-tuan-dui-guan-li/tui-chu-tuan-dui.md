@@ -6,8 +6,6 @@
 
 ![](https://images-cdn.shimo.im/s7gLDcF2OFs97Q7t/11.png!thumbnail)
 
-\*\*\*\*
-
 进入团队管理页面，点击右上角【设置】，选择【退出团队】即可退出该团队。 
 
 👇

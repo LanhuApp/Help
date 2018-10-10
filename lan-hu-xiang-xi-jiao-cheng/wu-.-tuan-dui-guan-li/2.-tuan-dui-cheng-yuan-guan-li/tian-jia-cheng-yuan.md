@@ -8,8 +8,6 @@
 
 ![](https://images-cdn.shimo.im/Xk7exh6oOc0mHUim/16.png!thumbnail)
 
-\*\*\*\*
-
 设置该成员的身份（权限）； 
 
 点击【生成邀请链接】； 

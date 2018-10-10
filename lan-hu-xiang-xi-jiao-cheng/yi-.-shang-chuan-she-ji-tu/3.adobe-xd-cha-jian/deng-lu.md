@@ -6,8 +6,6 @@
 
 ![](https://images-cdn.shimo.im/F9d6UlWb3sATRdDF/2.png!thumbnail)
 
-\*\*\*\*
-
 ★ 注：
 
 如果你之前下载安装过【蓝湖 Photoshop 插件】，【蓝湖 XD】程序会自动获取你的帐号信息，团队和项目都是之前 Photoshop 内的设置，可自行修改；

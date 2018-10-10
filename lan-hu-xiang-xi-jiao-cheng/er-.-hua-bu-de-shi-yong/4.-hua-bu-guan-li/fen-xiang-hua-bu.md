@@ -6,8 +6,6 @@
 
 ![](https://images-cdn.shimo.im/0471FLWmI6MXBsXP/23.png!thumbnail)
 
-\*\*\*\*
-
 **① 选择【分享画布及标注】** 
 
 分享给团队成员，可查看标注、原型等项目内容； 

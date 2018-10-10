@@ -18,9 +18,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](https://images-cdn.shimo.im/qLw9m64rMjo1eU6K/4.png!thumbnail)
-
-\*\*\*\*
+![](../../../.gitbook/assets/4.png)
 
 ◆ 例如： 
 

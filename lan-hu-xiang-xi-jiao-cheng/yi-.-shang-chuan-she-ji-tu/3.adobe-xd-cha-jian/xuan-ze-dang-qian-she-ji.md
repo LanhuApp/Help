@@ -22,8 +22,6 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 
 ![](https://images-cdn.shimo.im/XhixaOwZmWUgIqNP/4.png!thumbnail)
 
-\*\*\*\*
-
 ◆ 例如： 
 
 375 x 667，属于 iOS 1x； 

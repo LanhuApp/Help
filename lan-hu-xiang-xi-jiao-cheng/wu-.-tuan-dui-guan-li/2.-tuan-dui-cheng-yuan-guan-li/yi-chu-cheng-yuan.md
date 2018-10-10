@@ -8,8 +8,6 @@
 
 ![](https://images-cdn.shimo.im/wxLhoXiLmbM3dXsJ/17.png!thumbnail)
 
-\*\*\*\*
-
 进入团队管理页面，找到你要删除的成员，点击最右边成员身份，在下拉列表中点击【删除成员】即可。 
 
 👇
