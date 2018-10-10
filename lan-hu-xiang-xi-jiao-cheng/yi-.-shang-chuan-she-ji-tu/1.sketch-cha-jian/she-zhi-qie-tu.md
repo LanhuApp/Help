@@ -1,16 +1,10 @@
 # -设置切图
 
-![](http://sos.lanhuapp.com/147.png)
+![](../../../.gitbook/assets/5%20%287%29.png)
 
-\*\*\*\*
+![](../../../.gitbook/assets/6%20%287%29.png)
 
-![](http://sos.lanhuapp.com/148.png)
+![](../../../.gitbook/assets/7%20%281%29.png)
 
-\*\*\*\*
-
-![](http://sos.lanhuapp.com/149.png)
-
-\*\*\*\*
-
-![](http://sos.lanhuapp.com/150.png)
+![](../../../.gitbook/assets/8%20%283%29.png)
 

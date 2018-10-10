@@ -10,5 +10,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/uGfV1IKtuN0GnpWr/5.png!thumbnail)
+![](../../../.gitbook/assets/5%20%2810%29.png)
 

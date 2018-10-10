@@ -4,17 +4,13 @@
 
 👇
 
-![](https://images-cdn.shimo.im/AAVAqbZOgd4bUr7r/9.gif)
-
-\*\*\*\*
+![](../../../.gitbook/assets/9.gif)
 
 💌设计图搜索功能支持拼音。 
 
 👇
 
-![](https://images-cdn.shimo.im/nWzpz9BYQX01lXsj/10.png!thumbnail)
-
-
+![](../../../.gitbook/assets/10%20%281%29.png)
 
 💌PS：
 

@@ -4,13 +4,13 @@
 
 👇
 
-![](https://images-cdn.shimo.im/rXb4QS3Vtgc5OORv/4.png!thumbnail)
+![](../../../.gitbook/assets/4%20%284%29.png)
 
 删除设计图之后，点击画布右下角“撤销”图标，即可撤销操作。 
 
 👇
 
-![](https://images-cdn.shimo.im/ZZuWWQbLliY0h7rW/5.png!thumbnail)
+![](../../../.gitbook/assets/5%20%281%29.png)
 
 💌当页面刷新后 就无法再执行 “撤销”命令了，请谨慎删除操作。
 

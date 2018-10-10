@@ -6,7 +6,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/5aRdfn23HKcrT4d7/7.gif)
+![](../../../.gitbook/assets/7%20%282%29.gif)
 
 设置好的切图，会跟随页面一同上传至蓝湖 Web 端，可看标注，并下载切图。 
 
@@ -30,9 +30,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/202xvJ9sknIlhvhl/8.png!thumbnail)
-
-\*\*\*\*
+![](../../../.gitbook/assets/8.png)
 
  **开启快速上传模式** 🌱
 
@@ -50,5 +48,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/7N8vDC7tEvUrAOSp/9.png!thumbnail)
+![](../../../.gitbook/assets/9%20%281%29.png)
 

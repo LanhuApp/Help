@@ -6,5 +6,5 @@
 
 👇
 
-![](../.gitbook/assets/10.gif)
+![](../.gitbook/assets/10%20%281%29.gif)
 

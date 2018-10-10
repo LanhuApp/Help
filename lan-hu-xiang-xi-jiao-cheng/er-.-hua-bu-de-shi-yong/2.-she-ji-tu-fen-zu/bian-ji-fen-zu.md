@@ -4,7 +4,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/nFTbJMk3Pq0zntSS/13.png!thumbnail)
+![](../../../.gitbook/assets/13.png)
 
 **① 添加/删减设计图** 
 
@@ -14,7 +14,7 @@
 
  👇
 
-![](https://images-cdn.shimo.im/hjyLl4D3wIUi4doT/14.gif)
+![](../../../.gitbook/assets/14%20%281%29.gif)
 
 **②修改名称** 
 
@@ -22,7 +22,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/cxki9RqeZQEJdyJi/15.gif)
+![](../../../.gitbook/assets/15.gif)
 
 **③ 删除** 
 
@@ -30,7 +30,7 @@
 
  👇
 
-![](https://images-cdn.shimo.im/dOsQi8zDl9kvvZ3W/16.png!thumbnail)
+![](../../../.gitbook/assets/16%20%281%29.png)
 
 **④ 修改排序** 
 
@@ -38,7 +38,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/ZGSVzlw3IGgbDbRH/17.gif)
+![](../../../.gitbook/assets/17%20%284%29.gif)
 
 💌不打开编辑模式 也可修改分组排序。
 

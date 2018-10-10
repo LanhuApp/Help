@@ -6,11 +6,11 @@
 
 👇
 
-![](https://images-cdn.shimo.im/wxLhoXiLmbM3dXsJ/17.png!thumbnail)
+![](../../../.gitbook/assets/18%20%281%29.png)
 
 进入团队管理页面，找到你要删除的成员，点击最右边成员身份，在下拉列表中点击【删除成员】即可。 
 
 👇
 
-![](https://images-cdn.shimo.im/aGtdwZK5sRsWtxxa/19.png!thumbnail)
+![](../../../.gitbook/assets/19%20%281%29.png)
 

@@ -6,7 +6,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/Xk7exh6oOc0mHUim/16.png!thumbnail)
+![](../../../.gitbook/assets/16%20%282%29.png)
 
 设置该成员的身份（权限）； 
 
@@ -16,5 +16,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/cGZiWINUJIsGFt4R/17.gif)
+![](../../../.gitbook/assets/17%20%281%29.gif)
 

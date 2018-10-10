@@ -4,7 +4,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/F9d6UlWb3sATRdDF/2.png!thumbnail)
+![](../../../.gitbook/assets/2%20%284%29.png)
 
 ★ 注：
 

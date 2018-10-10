@@ -4,5 +4,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/Xft4WHpdjkkKrRuL/32.gif)
+![](../../../.gitbook/assets/32.gif)
 

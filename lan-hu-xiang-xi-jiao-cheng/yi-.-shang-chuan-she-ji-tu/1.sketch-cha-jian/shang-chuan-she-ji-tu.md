@@ -18,5 +18,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/xiCI0PUWmU0fVWAQ/9.gif)
+![](../../../.gitbook/assets/9%20%282%29.gif)
 

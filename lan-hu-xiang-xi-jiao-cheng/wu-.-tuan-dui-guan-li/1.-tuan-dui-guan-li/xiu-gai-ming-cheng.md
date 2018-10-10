@@ -6,7 +6,7 @@
 
  👇
 
-![](https://images-cdn.shimo.im/50xtYiuKu0Q53ylX/1.png!thumbnail)
+![](../../../.gitbook/assets/1%20%283%29.png)
 
 进入团队管理页面，点击右上角【设置】，选择【更改团队名称】，
 
@@ -14,5 +14,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/qTzITnIvgJ0SFSoY/2.png!thumbnail)
+![](../../../.gitbook/assets/2%20%281%29.png)
 

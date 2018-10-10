@@ -8,5 +8,5 @@
 
 👇 
 
-![](../../../.gitbook/assets/1.gif)
+![](../../../.gitbook/assets/1%20%282%29.gif)
 

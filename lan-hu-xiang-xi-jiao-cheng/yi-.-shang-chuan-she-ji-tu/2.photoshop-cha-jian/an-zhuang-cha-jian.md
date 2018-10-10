@@ -8,5 +8,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/BzMCEFeeTbgS2Lli/1.png!thumbnail)
+![](../../../.gitbook/assets/1%20%282%29.png)
 

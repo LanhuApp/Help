@@ -6,13 +6,11 @@
 
  👇
 
-![](https://images-cdn.shimo.im/Rb76S1e90HgKnPWA/21.gif)
-
-\*\*\*\*
+![](../../../.gitbook/assets/21.gif)
 
 或长按“空格”键，进入抓手模式，点击画布任意地方都可以拖拽画布。 
 
 👇
 
-![](https://images-cdn.shimo.im/7zVyhwF4dOgyrhrp/22.gif)
+![](../../../.gitbook/assets/22.gif)
 

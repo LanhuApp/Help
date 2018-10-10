@@ -6,13 +6,13 @@
 
 👇
 
-![](https://images-cdn.shimo.im/2q7vFNB9TP0FcJJJ/6.png!thumbnail)
+![](../../../.gitbook/assets/6%20%286%29.png)
 
 进入项目设置页面，可以重新选择项目类型。 
 
 👇
 
-![](https://images-cdn.shimo.im/TdntSO0E20ou2nak/7.png!thumbnail)
+![](../../../.gitbook/assets/7%20%283%29.png)
 
 💌通过画布右上方的“更多”图标，也可以进入项目设置页。 
 

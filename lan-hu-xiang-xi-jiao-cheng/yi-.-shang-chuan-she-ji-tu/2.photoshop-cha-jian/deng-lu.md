@@ -4,9 +4,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/nJUQsMoa8hULC6mt/2.png!thumbnail)
-
-
+![](../../../.gitbook/assets/2%20%282%29.png)
 
 输入蓝湖帐号、密码登录； 
 
@@ -14,7 +12,5 @@
 
 👇
 
-![](../../../.gitbook/assets/3%20%282%29.png)
-
-\*\*\*\*
+![](../../../.gitbook/assets/3%20%286%29.png)
 

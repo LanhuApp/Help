@@ -4,7 +4,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/0471FLWmI6MXBsXP/23.png!thumbnail)
+![](../../../.gitbook/assets/23.png)
 
 **① 选择【分享画布及标注】** 
 
@@ -14,7 +14,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/Pm3XQ216N9Yrsis6/24.png!thumbnail)
+![](../../../.gitbook/assets/24.png)
 
 💌 该链接会同时邀请加入团队，再次自行登录后即可查看，不用多次重复分享；
 
@@ -30,7 +30,7 @@
 
 👇
 
-![](../../../.gitbook/assets/25.png)
+![](../../../.gitbook/assets/25%20%281%29.png)
 
   
 

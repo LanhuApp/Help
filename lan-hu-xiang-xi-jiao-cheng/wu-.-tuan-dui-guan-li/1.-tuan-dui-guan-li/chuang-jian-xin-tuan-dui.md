@@ -10,13 +10,11 @@
 
 👇
 
-![](https://images-cdn.shimo.im/dAalUwiJnqEvyHLZ/4.png!thumbnail)
-
-\*\*\*\*
+![](../../../.gitbook/assets/4%20%286%29.png)
 
 填写“团队名称”，点击【创建】即可创建一个新的团队。 
 
-![](../../../.gitbook/assets/5.png)
+![](../../../.gitbook/assets/5%20%283%29.png)
 
 ![](https://images-cdn.shimo.im/orefWmjmPNkFuUKz/5.png!thumbnail)
 

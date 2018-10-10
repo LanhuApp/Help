@@ -6,5 +6,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/fd0Z1Y5OP8Yj5xrG/2.png!thumbnail)
+![](../../../.gitbook/assets/2%20%2811%29.png)
 

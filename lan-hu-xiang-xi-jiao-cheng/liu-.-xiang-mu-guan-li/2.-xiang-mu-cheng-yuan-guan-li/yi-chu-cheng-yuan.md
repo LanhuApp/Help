@@ -6,13 +6,13 @@
 
 👇
 
-![](https://images-cdn.shimo.im/Q72Sex1XG4QzqVIs/19.png!thumbnail)
+![](../../../.gitbook/assets/19.png)
 
 进入项目设置页面，点击项目成员身份（权限），选择【移除项目】即可。
 
 👇
 
-![](https://images-cdn.shimo.im/QAFw5DIIbaAB0kjW/20.png!thumbnail)
+![](../../../.gitbook/assets/20%20%281%29.png)
 
 ★ 注：移除项目成员，该成员只是不能参与此项目，他仍留在团队中。如需从团队中删除成员，请参看“移除团队成员”。 
 
@@ -20,5 +20,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/2epPtb3udw00XB27/21.png!thumbnail)
+![](../../../.gitbook/assets/21.png)
+
+
 

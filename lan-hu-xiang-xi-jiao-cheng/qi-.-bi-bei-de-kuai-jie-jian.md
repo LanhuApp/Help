@@ -1,4 +1,4 @@
 # 七.必备的快捷键
 
-![](https://images-cdn.shimo.im/0iiPWjyCoXAZkVa6/1.png!thumbnail)
+![](../.gitbook/assets/1%20%2810%29.png)
 

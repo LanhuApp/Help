@@ -12,5 +12,5 @@
 
 👇
 
-![](https://images-cdn.shimo.im/gnryaMMlhhc7jYr5/1.gif)
+![](../../../.gitbook/assets/1%20%281%29.gif)
 

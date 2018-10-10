@@ -6,13 +6,13 @@
 
 👇
 
-![](https://images-cdn.shimo.im/lTSgab7HeCA0KB57/4.png!thumbnail)
+![](../../../.gitbook/assets/4%20%283%29.png)
 
 进入项目设置页面，点击“名称”后的编辑按钮即可修改。 
 
 👇
 
-![](https://images-cdn.shimo.im/O6tUNs7a6ZIOh7kj/5.png!thumbnail)
+![](../../../.gitbook/assets/5%20%285%29.png)
 
 💌通过画布右上方的“更多”图标，也可以进入项目设置页。 
 

@@ -8,19 +8,19 @@
 
 👇
 
-![](https://images-cdn.shimo.im/1XXJO1deQVw6Xedo/4.png!thumbnail)
+![](../../../.gitbook/assets/5%20%284%29.png)
 
 **Windows 系统**
 
-👇
+👇 
 
- ![](https://images-cdn.shimo.im/7vmKc5srtzEoLOsV/5.png!thumbnail) 
+![](../../../.gitbook/assets/6%20%285%29.png)
 
 在【蓝湖 XD】程序上，选择需要上传的团队和项目，选择【当前选中的画板】，或者【全部画板】，上传到蓝湖。
 
 👇
 
-![](https://images-cdn.shimo.im/vQB4ZzHNAiAmZgqB/6.gif)
+![](../../../.gitbook/assets/7%20%283%29.gif)
 
 ★ 注：
 

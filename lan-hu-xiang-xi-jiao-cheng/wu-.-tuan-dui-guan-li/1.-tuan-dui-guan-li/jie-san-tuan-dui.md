@@ -6,21 +6,19 @@
 
 👇
 
-![](https://images-cdn.shimo.im/FVshRC3LTrQS0dx5/13.png!thumbnail)
+![](../../../.gitbook/assets/13%20%282%29.png)
 
 进入团队管理页面，点击右上角【设置】，选择【解散团队】； 
 
 👇
 
-![](https://images-cdn.shimo.im/EjmDGp4SBVEzLXZR/14.png!thumbnail)
+![](../../../.gitbook/assets/14%20%281%29.png)
 
 输入你的“登录密码”，点击【确定】即可。
 
 👇
 
-![](../../../.gitbook/assets/15.png)
-
-![](https://images-cdn.shimo.im/AVLdksxhbTQds7M7/15.png!thumbnail)
+![](../../../.gitbook/assets/15%20%281%29.png)
 
 💌解散团队后，该团队的所有内容将被删除，且不可恢复，请慎重操作☠。 
 

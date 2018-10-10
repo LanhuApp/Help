@@ -6,9 +6,7 @@
 
 👇 
 
-![](https://images-cdn.shimo.im/ILGz1gWvOtkPa8uY/10.gif)
-
-\*\*\*\*
+![](../../../.gitbook/assets/10.gif)
 
 同步 Sketch 内的原型将会呈现在右侧属性区，选中跳转元素后，右侧属性区有【跳转页面】和【跳转动画】两种属性。
 
@@ -16,11 +14,9 @@
 
 👇
 
-![](https://images-cdn.shimo.im/d06DWNyvq6oDEBs8/11.png!thumbnail)
-
-\*\*\*\*
+![](../../../.gitbook/assets/11%20%281%29.png)
 
 💌点击右上角【设置】，可选择数值保留小数还是取整显示。 
 
-![](https://images-cdn.shimo.im/jjYCC1EsXVMe3HrT/12.png!thumbnail)
+![](../../../.gitbook/assets/12%20%283%29.png)
 

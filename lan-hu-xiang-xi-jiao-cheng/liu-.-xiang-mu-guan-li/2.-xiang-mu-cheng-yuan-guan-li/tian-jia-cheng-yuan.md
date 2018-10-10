@@ -6,13 +6,13 @@
 
 👇
 
-![](https://images-cdn.shimo.im/su5Bl1aDexUDXW9c/14.png!thumbnail)
+![](../../../.gitbook/assets/14.png)
 
 进入项目设置页面，点击蓝色“添加成员”图标； 
 
 👇
 
-![](https://images-cdn.shimo.im/l4hJvzGf71wUvQPe/15.png!thumbnail)
+![](../../../.gitbook/assets/15%20%282%29.png)
 
 **方式一：【邀请小伙伴进入项目】**
 
@@ -22,7 +22,7 @@
 
 👇
 
-![](https://images-cdn.shimo.im/J6RAGkjN6CU9yPg7/16.png!thumbnail)
+![](../../../.gitbook/assets/16.png)
 
 **方式二：【从团队外邀请】**
 
@@ -32,11 +32,11 @@
 
 👇
 
-![](https://images-cdn.shimo.im/OLYwuImEW6EttmUG/17.png!thumbnail)
+![](../../../.gitbook/assets/17.png)
 
 ★ Ps：通过画布右上方的“更多”图标，也可以进入项目设置页。 
 
 👇
 
-![](https://images-cdn.shimo.im/m57FhYQNvG0Y1qhe/18.png!thumbnail)
+![](../../../.gitbook/assets/18.png)
 

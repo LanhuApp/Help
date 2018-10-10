@@ -4,11 +4,11 @@
 
 👇
 
-![](https://images-cdn.shimo.im/YwZmv8hFyq4OBjSK/1.png!thumbnail)
+![](../../../.gitbook/assets/1.png)
 
 输入“项目名称”，选择项目类型，点击【确定】即可。 
 
 👇
 
-![](https://images-cdn.shimo.im/k9bxJ0UW2Y4H83QB/2.png!thumbnail)
+![](../../../.gitbook/assets/2%20%283%29.png)
 

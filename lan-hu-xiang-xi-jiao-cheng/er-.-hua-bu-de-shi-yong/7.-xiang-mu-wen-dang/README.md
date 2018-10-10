@@ -12,5 +12,5 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 👇
 
-![](https://img.zcool.cn/community/018c1c5b4ed9cca80121ade07dd867.jpg)
+![](../../../.gitbook/assets/28.png)
 

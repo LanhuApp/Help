@@ -10,5 +10,5 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 👇
 
-![](../.gitbook/assets/32.gif)
+![](../.gitbook/assets/32%20%281%29.gif)
 

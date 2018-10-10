@@ -8,7 +8,7 @@
 
 👇
 
-![](https://img.zcool.cn/community/01802d5b4eda45a80121ade0cc6767.jpg@800w_1l_2o_100sh.jpg)
+![](../../../.gitbook/assets/29.png)
 
 **· 添加链接**
 
@@ -16,5 +16,5 @@
 
 👇
 
-![](https://img.zcool.cn/community/016beb5b4eda54a80121ade0a0c742.jpg@800w_1l_2o_100sh.jpg)
+![](../../../.gitbook/assets/30.png)
 
