@@ -87,7 +87,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
                 
         $('.active').removeClass('active');
         $(this).addClass('active');
-       
+        expand($(this));
+        
         e.stopPropagation();
         console.log('thishtiioooo',$(this))
       })
