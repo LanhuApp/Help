@@ -1,11 +1,10 @@
 # 蓝湖详细教程
 
 # 一. 上传设计图 
----
+&nbsp;  
+
 ## 1.Sketch 插件
 
-&nbsp;   
-&nbsp;  
 &nbsp;  
 
 ### 1.1 安装插件
@@ -15,6 +14,7 @@
 👇
 
 ![](../../../.gitbook/assets/1%20%286%29.png)
+&nbsp;    
 
 
 ### 1.2 登录
@@ -25,6 +25,8 @@
 
 ![](../../../.gitbook/assets/2%20%289%29.png)
 
+&nbsp;    
+
   
 输入你的蓝湖账号、密码，登录蓝湖，选择设计图对应的团队和项目。
 
@@ -33,6 +35,7 @@
 ![](../../../.gitbook/assets/3%20%281%29.png)
 
 
+&nbsp;    
 
 ### 1.3 选择“当前设计”
 
@@ -72,7 +75,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 2x 是指为特定的屏幕（4k屏）设计的尺寸，通常该尺寸会是正常网页的2倍。 
 
-
+&nbsp;    
 
 ### 1.4 设置切图
 
@@ -83,6 +86,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 ![](../../../.gitbook/assets/7%20%281%29.png)
 
 ![](../../../.gitbook/assets/8%20%283%29.png)
+&nbsp;    
 
 ### 1.5 上传设计图
 
@@ -105,6 +109,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/9%20%282%29.gif)
+&nbsp;    
 
 ### 1.6 生成小程序代码
 
@@ -113,6 +118,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/10%20%282%29.gif)
+&nbsp;    
 
 ### 1.7 生成 SVG
 
@@ -129,7 +135,10 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 3.如果不需要使用SVG资源的时候，建议关闭SVG导出。
 
 ---
+&nbsp;    
 ## 2.Photoshop 插件
+
+&nbsp;  
 
 ### 2.1 安装插件
 
@@ -142,6 +151,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/1%20%282%29.png)
+&nbsp;    
 
 ### 2.2 登录
 
@@ -158,6 +168,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/3%20%286%29.png)
+&nbsp;    
 
 ### 2.3 选择“当前设计”
 
@@ -198,7 +209,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 1x,是常用尺寸，大家做的网页一般都是选1x； 
 
 2x 是指为特定的屏幕（4k屏）设计的尺寸，通常该尺寸会是正常网页的2倍。
-
+&nbsp;    
 ### 2.4 设置切图
 
 选中切图的图层，或图层组，点击【标为切图】即可；
@@ -219,7 +230,7 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 
 **💌设置切图的图层或组，不可重复嵌套**
 
-
+&nbsp;    
 ### 2.5 上传设计图
 
 **普通上传模式**
@@ -271,7 +282,7 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 ![](../../../.gitbook/assets/9%20%281%29.png)
 
 
-
+&nbsp;    
 
 ### 2.6 生成 SVG
 
@@ -279,7 +290,10 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 
  
 ---
+&nbsp;    
 ## 3.Adobe XD 插件
+
+&nbsp;  
 
 ### 3.1 安装插件
 
@@ -292,7 +306,7 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 👇
 
 ![](../../../.gitbook/assets/1%20%287%29.png)
-
+&nbsp;    
 ### 3.2 登录
 
 启动【蓝湖 XD】程序，输入你的蓝湖帐号、密码登录；
@@ -311,7 +325,7 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 
 蓝湖官网：[lanhuapp.com](http://lanhuapp.com/)
 
-
+&nbsp;    
 ### 3.4 选择“当前设计”
 
 插件内 “当前设计” 是指当前设计图的大小，根据设计图大小选择对应倍数。 
@@ -351,7 +365,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 1x,是常用尺寸，大家做的网页一般都是选1x； 
 
 2x 是指为特定的屏幕（4k屏）设计的尺寸，通常该尺寸会是正常网页的2倍。 
-
+&nbsp;    
 ### 3.3 设置切图
 
 选择需要标记为切图的图层，在 Adobe XD 的组或图层上，点击【批量导出标记】后，即可完成切图设置；
@@ -359,7 +373,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/3%20%285%29.png)
-
+&nbsp;    
 ### 3.5 上传设计图
 
 选中需要导出的画板，选择【文件】→【导出】→【蓝湖】；
@@ -392,10 +406,17 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 
 
 
+&nbsp;    
+&nbsp;    
 
 # 二.画布的使用
 ---
+
+&nbsp;  
+
 ## 1.设计图管理
+
+&nbsp;  
 
 ### 1.1 框选设计图
 
@@ -408,11 +429,12 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 👇 
 
 ![](../../../.gitbook/assets/1%20%282%29.gif)
+&nbsp;    
 
 ### 1.2 上传设计图
 
 通过蓝湖 Sketch 插件、 Photoshop 插件或者 Adobe XD 插件一键上传设计图。
-
+&nbsp;    
 
 ### 1.3 下载设计图
 
@@ -423,7 +445,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/2%20%2811%29.png)
-
+&nbsp;    
 
 ### 1.4 复制设计图
 选中需要复制的设计图/文字卡片，右键菜单；
@@ -433,8 +455,8 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 即可复制该设计图当前版本/文字卡片。
 
 👇
-图丢了，再次链接一下，抱歉！！！！！
 ![](../../../.gitbook/assets/3%20%287%29.png)
+&nbsp;    
 
 ### 1.5 删除设计图
 
@@ -451,6 +473,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 ![](../../../.gitbook/assets/5%20%281%29.png)
 
 💌当页面刷新后 就无法再执行 “撤销”命令了，请谨慎删除操作。
+&nbsp;    
 
 ### 1.6 设计图重命名
 
@@ -459,6 +482,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
  👇
 
 ![](../../../.gitbook/assets/6%20%284%29.png)
+&nbsp;    
 
 ### 1.7 移动设计图
 
@@ -477,23 +501,25 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 ![](../../../.gitbook/assets/8%20%281%29.png)
 
 💌当页面刷新后 就无法再执行 “撤销”命令了。
+&nbsp;    
 
 ### 1.8 搜索设计图 
 点击画布上方“搜索”图标，输入设计图名称即可。
 
 👇
-图丢了！！！
+![](../../../.gitbook/assets/9.gif)
 
 💌设计图搜索功能支持拼音。
 
 👇
-图丢了！！！
+![](../../../.gitbook/assets/10%20%281%29.png)
 
 💌PS：
 
 单击设计图，即可在画布内定位展示；
 
 双击设计图，可打开当前设计图的标注页面。
+&nbsp;    
 
 ### 1.9 设计图全览
 
@@ -504,9 +530,12 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 ![](../../../.gitbook/assets/11.gif)
 
 
+&nbsp;   
 
 ---
 ## 2.设计图分组
+
+&nbsp;  
 
 ### 2.1 添加分组
 
@@ -519,6 +548,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
  👇
 
 ![](../../../.gitbook/assets/12.gif)
+&nbsp;    
 
 ### 2.2 编辑分组
 
@@ -565,6 +595,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 💌不打开编辑模式 也可修改分组排序。
 
 
+&nbsp;    
 
 ---
 ## 3.设计图的状态图
@@ -572,6 +603,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 我们经常会遇到同一页面、但表现不同情况的设计图 。\(例如无网络、未登录等状态\)
 
 把这些图拖拽合并为状态图，就可以大大地方便团队理解和查看。
+&nbsp;    
 
 ### 3.1 添加状态图
 
@@ -580,6 +612,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
  👇
 
 ![](../../../.gitbook/assets/18.gif)
+&nbsp;    
 
 
 ### 3.2 取消状态图
@@ -589,6 +622,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
  👇
 
 ![](../../../.gitbook/assets/19.gif)
+&nbsp;    
 
 ### 3.3删除状态图
 
@@ -597,10 +631,13 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/20%20%281%29.gif)
+&nbsp;    
 
 
 ---
 ## 4.画布管理
+
+&nbsp;  
 
 ### 4.1 拖拽整块画布
 
@@ -617,6 +654,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../../.gitbook/assets/22.gif)
+&nbsp;    
 
 ### 4.2 分享画布
 
@@ -654,7 +692,8 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 
   
 
-
+&nbsp;    
+&nbsp;  
 
 ---
 ## 5.文字卡片
@@ -666,6 +705,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
  👇
 
 ![](../../.gitbook/assets/26.gif)
+&nbsp;    
 
 ---
 ## 6.逻辑连线
@@ -675,6 +715,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 👇
 
 ![](../../.gitbook/assets/27.gif)
+&nbsp;    
 
 ---
 ## 7.项目文档
@@ -692,6 +733,8 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 👇
 
 ![](../../../.gitbook/assets/28.png)
+
+&nbsp;    
 
 ### 7.1 添加文件/链接
 
@@ -713,7 +756,7 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](../../../.gitbook/assets/30.png)
 
-
+&nbsp;    
 
 ### 7.2 查看文件
 
@@ -723,6 +766,8 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](../../../.gitbook/assets/32.gif)
 
+&nbsp;    
+
 ### 7.3 删除文件/链接
 
 进入“项目文档”页，点击已上传文件/链接右上角的【更多】图标，选择【删除】，即可删除已上传的文件/链接。
@@ -731,10 +776,19 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](../../../.gitbook/assets/31.gif)
 
+&nbsp;    
+&nbsp;    
+
+&nbsp;  
+
 # 三.标注详情页
+
+&nbsp;  
 
 ---
 ## 1.批注
+
+&nbsp;  
 
 
 ### 1.1 添加批注
@@ -753,6 +807,7 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](../../../.gitbook/assets/1%20%281%29.gif)
 
+&nbsp;    
 
 ### 1.2 查看批注
 
@@ -772,6 +827,8 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](../../../.gitbook/assets/4.png)
 
+&nbsp;    
+
 
 ### 1.3 修改/删除批注
 
@@ -787,6 +844,7 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](../../../.gitbook/assets/5%20%2810%29.png)
 
+&nbsp;    
 
 ### 1.4 隐藏批注
 
@@ -797,6 +855,8 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 ![](../../../.gitbook/assets/6.gif)
 
 ---
+
+&nbsp;    
 ## 2.添加设计图版本
 
 每次通过 Ps 或 Sketch 插件上传版设计图，如果该设计图有修改或更新，将自动添加一个最新版本，原设计图变为一个历史版本。（上传请见上传设计图教程） 
@@ -804,6 +864,8 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 👇
 
 ![](../../.gitbook/assets/7.gif)
+
+&nbsp;    
 
 ---
 ## 3.状态图切换
@@ -815,6 +877,7 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 ![](../../.gitbook/assets/8%20%282%29.gif)
 
 ---
+&nbsp;    
 ## 4.设计图切换
 
 在画布页绘制跳转逻辑连线； 
@@ -826,7 +889,11 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 ![](../../.gitbook/assets/9%20%281%29.gif)
 
 ---
+
+&nbsp;    
 ## 5.标注
+
+&nbsp;  
 
 ### 5.1 查看自动标注
 
@@ -850,7 +917,7 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](../../../.gitbook/assets/12%20%283%29.png)
 
-
+&nbsp;    
 ### 5.2 切换标注单位
 
 点击标注面板右上方三角图标，打开标注单位列表，根据需要选择标注单位。
@@ -890,6 +957,7 @@ dp=pt
 * dp 应用于 Android 设备开发时使用的单位
 * rem 应用于网页开发使用的单位
 
+&nbsp;    
 ### 5.3 复制标注信息
 
 鼠标单击标注数值即可自动复制。 
@@ -897,6 +965,7 @@ dp=pt
 👇
 
 ![](../../../.gitbook/assets/14.gif)
+&nbsp;    
 
 ### 5.4 切换颜色模式
 
@@ -906,6 +975,7 @@ dp=pt
 
 ![](../../../.gitbook/assets/15-de-fu-ben.png)
 
+&nbsp;    
 ### 5.5 分享标注
 
 点击设计图详情页左侧工具栏中的“分享”按钮，复制链接，即可分享给团队同事。 
@@ -914,6 +984,7 @@ dp=pt
 
 ![](../../../.gitbook/assets/16.gif)
 
+&nbsp;    
 
 ---
 ## 6.下载切图
@@ -936,6 +1007,8 @@ dp=pt
 
 ![](../../.gitbook/assets/19%20%282%29.png)
 
+&nbsp;    
+
 ---
 ## 7.查看 Sketch 原型
 
@@ -948,11 +1021,16 @@ dp=pt
 ![](../../.gitbook/assets/20.gif)
 
 
+&nbsp;    
+&nbsp;    
 
-
+&nbsp;  
 
 # 四.交互原型
 ---
+
+&nbsp;  
+
 ## 1.在蓝湖上制作跳转交互
 
 第一步：在设计图上拖拽绘制出跳转区域，该区域大小方向可调节；
@@ -963,6 +1041,8 @@ dp=pt
 
 ![](../../.gitbook/assets/1.gif)
 
+&nbsp;    
+
 ## 2.设置首页
 
 点击左上方【设为起始页】图标，即将本页面的设计图设置为原型起始页。 
@@ -970,6 +1050,8 @@ dp=pt
 👇
 
 ![](../../.gitbook/assets/2%20%288%29.png)
+
+&nbsp;    
 
 ## 3.演示原型
 
@@ -1001,6 +1083,8 @@ Web类型的项目 设计图会直接平铺展示。（5秒后会自动隐藏左
 
 比如：若页面 a、页面 b、页面 c、等多个页面都可以跳转至同一个页面 e，则页面 e 的返回键可直接链接到右侧设计图列表中的“返回”，即从哪个页面进入，便返回至哪个页面。 
 
+&nbsp;    
+
 ## 5.分享原型（支持分享到 UI 中国）
 
 点击原型预览界面左侧的“分享”按钮，直接复制原型链接；
@@ -1012,7 +1096,8 @@ Web类型的项目 设计图会直接平铺展示。（5秒后会自动隐藏左
 👇
 
 ![](../../.gitbook/assets/6%20%283%29.png)
-
+&nbsp;    
+&nbsp;    
 
 ## 6.共享 Sketch 中绘制的原型
 
@@ -1032,10 +1117,19 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 也可以通过蓝湖 APP 演示原型、分享原型。 
 
+&nbsp;    
+
+
 
 # 五.团队管理
+
+&nbsp;    
+
+
 ---
 ## 1.团队管理
+
+&nbsp;  
 
 ### 1.1 修改名称
 
@@ -1054,6 +1148,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 👇
 
 ![](../../../.gitbook/assets/2%20%281%29.png)
+
+&nbsp;    
+
 
 ### 1.2 创建新团队
 
@@ -1075,6 +1172,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](https://images-cdn.shimo.im/orefWmjmPNkFuUKz/5.png!thumbnail)
 
+&nbsp;    
+
+
 ### 1.3 切换团队
 
 在首页左侧功能栏中选择【切换/创建团队】； 
@@ -1087,6 +1187,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 👇
 
 ![](../../../.gitbook/assets/7%20%282%29.png)
+
+
+&nbsp;    
 
 
 ### 1.4 移交团队
@@ -1114,6 +1217,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ![](../../../.gitbook/assets/10%20%282%29.png)
 
 
+&nbsp;    
+
+
 ### 1.5 退出团队
 
 在首页左侧功能栏中选择【管理团队】； 
@@ -1129,6 +1235,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ![](../../../.gitbook/assets/12%20%282%29.png)
 
 ★ 注：超级管理员需将团队移交出去才能退出团队。 
+
+&nbsp;    
+
 
 ### 1.6 解散团队
 
@@ -1156,9 +1265,14 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 
 
+&nbsp;    
+&nbsp;    
+
 
 
 ## 2.团队成员管理
+
+&nbsp;  
 
 ### 2.1 添加成员
 
@@ -1181,6 +1295,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ![](../../../.gitbook/assets/17%20%281%29.gif)
 
 
+&nbsp;    
+
+
 ### 2.2 移除成员
 
 只有该团队的超级管理员及管理员有权限移除团队成员。 
@@ -1197,17 +1314,27 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../../.gitbook/assets/19%20%281%29.png)
 
+&nbsp;    
+
+
 ### 2.3 成员权限说明
 
 ![](../../../.gitbook/assets/20.png)
 
 
+&nbsp;    
+&nbsp;    
 
 
 # 六.项目管理
 ---
 
+&nbsp;    
+
+
 ## 1.项目管理
+
+&nbsp;  
 
 ### 1.1 创建项目
 
@@ -1223,6 +1350,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../../.gitbook/assets/2%20%283%29.png)
 
+&nbsp;    
+
+
 ### 1.2 删除项目
 
 只有该团队的超级管理员及管理员才有权限删除项目。 
@@ -1234,6 +1364,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 👇
 
 ![](../../../.gitbook/assets/3%20%289%29.png)
+
+&nbsp;    
+
 
 ### 1.3 修改名称
 
@@ -1252,6 +1385,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ![](../../../.gitbook/assets/5%20%285%29.png)
 
 💌通过画布右上方的“更多”图标，也可以进入项目设置页。 
+
+&nbsp;    
+
 
 ### 1.4 切换项目类型
 
@@ -1272,11 +1408,17 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 💌通过画布右上方的“更多”图标，也可以进入项目设置页。 
 
 
+&nbsp;    
+
+
 ### 1.5 项目分组
 
 只有团队的超级管理员和管理员才有项目分组的权限。
 
 如果团队的项目比较多，可以建立分组，对项目进行分组管理。
+
+
+&nbsp;    
 
 
 
@@ -1294,6 +1436,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../../.gitbook/assets/9%20%283%29.gif)
 
+&nbsp;    
+
+
 #### 1.5.2 删除分组
 
 在【项目分组】页面，点分组名称旁的【扩展图标】中选择【删除】即可。
@@ -1302,6 +1447,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../../.gitbook/assets/10.png)
 
+&nbsp;    
+
+
 #### 1.5.3 修改分组名称
 
 在【项目分组】页面，点分组名称旁的【扩展图标】中选择【重命名】，输入新的名称，点击【确定】即可。
@@ -1309,6 +1457,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 👇
 
 ![](../../../.gitbook/assets/11.png)
+
+&nbsp;    
+
 
 #### 1.5.4 分组内添加项目
 
@@ -1322,8 +1473,13 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../../.gitbook/assets/13%20%281%29.png)
 
+&nbsp;    
+
+
 
 ## 2.项目成员管理
+
+&nbsp;    
 
 ### 2.1 添加成员
 
@@ -1367,6 +1523,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../../.gitbook/assets/18.png)
 
+&nbsp;    
+
+
 ### 2.2 移除成员
 
 只有该团队的超级管理员及管理员才有权限移除团队成员。 
@@ -1392,7 +1551,8 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ![](../../../.gitbook/assets/21.png)
 
 
-
+&nbsp;    
+&nbsp;    
 
 
 
@@ -1402,19 +1562,37 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ![](../.gitbook/assets/1%20%2810%29.png)
 
 
+&nbsp;    
+
+
 # 八.隐藏的黑科技
 ---
+
+&nbsp;    
+
+
 ## 1.什么是隐藏的黑科技
 
 隐藏的黑科技，是蓝湖的一些隐藏的选项与功能。
 
+&nbsp;    
+
+
+
 ## 2.打开位置
+
+&nbsp;    
+
+
 
 点击进入项目画布，点击右上方“设置”按钮，选择【隐藏的黑科技】，可以看到一些隐藏的选项和功能。 
 
 👇
 
 ![](../../.gitbook/assets/1%20%2811%29.png)
+
+&nbsp;    
+
 
 ## 3.高对比度外观
 
@@ -1426,17 +1604,26 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../.gitbook/assets/2%20%281%29.gif)
 
+&nbsp;    
+
+
 ## 4.自由缩放
 
 默认状态下，缩放画布需使用“Crtl+鼠标滚轮”； 
 
 打开此项开关，使用“鼠标滚轮”即可缩放画布。 
 
+&nbsp;    
+
+
 ## 5.传统框选模式
 
 默认状态下，框选设计图需使用“Shift+鼠标左键”； 
 
 打开此项开关，使用“鼠标左键”即可框选设计图。 
+
+&nbsp;    
+
 
 
 ## 6.重命名按钮
@@ -1449,6 +1636,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../.gitbook/assets/3%20%281%29.gif)
 
+&nbsp;    
+
+
 ## 7.用颜色标记最近上传的设计图
 
 默认状态下，最新上传的设计图会出现在画布最上方，但是拖拽至其他地方后，很难分辨出哪几张设计图是最新上传的。 
@@ -1459,11 +1649,17 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../../.gitbook/assets/4.gif)
 
+&nbsp;    
+
+
 ## 8.焦距分区
 
 默认状态下，选中一个分区时，其他分区内容依旧会显示； 
 
 打开此项开关，选中一个分区时，其他分区内容会隐藏，有利于页面加快响应速度。 
+
+&nbsp;    
+
 
 ## 9.显示分区内容数量
 
@@ -1476,7 +1672,13 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ![](../../.gitbook/assets/5%20%282%29.png)
 
 
+&nbsp;    
+
+
 # 九.手机 APP
+
+&nbsp;    
+
 
 ## 1.下载
 
@@ -1490,6 +1692,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 
 ![](../../.gitbook/assets/1%20%2812%29.png)
 
+&nbsp;    
+
+
 ## 2.查看设计图
 
 输入蓝湖帐号、密码即可登录； 
@@ -1499,6 +1704,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 👇
 
 ![](../../.gitbook/assets/2.gif)
+
+&nbsp;    
+
 
 ## 3.批注评论
 
@@ -1510,6 +1718,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 
 ![](../../.gitbook/assets/3%20%283%29.gif)
 
+&nbsp;    
+
+
 ## 4.设计图分享
 
 点击设计图右上方【分享】，可以将设计图直接分享给同事进行预览和评论。 
@@ -1517,6 +1728,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 👇
 
 ![](../../.gitbook/assets/4%20%281%29.gif)
+
+&nbsp;    
+
 
 ## 5.查看交互原型
 
@@ -1527,8 +1741,14 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 ![](../../.gitbook/assets/5.gif)
 
 
+&nbsp;    
+
+
 
 # 十.常见问题
+
+&nbsp;    
+
 
 ## 1.Photoshop 插件常见问题
 
@@ -1545,6 +1765,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 ![](../../../.gitbook/assets/1%20%281%29.png)
 
 4.系统帐号有特殊字符（新建个系统名称规范的帐号 再使用插件上传） 
+&nbsp;    
+
+
 
 ### 1.2 网络异常，服务器错误
 
@@ -1555,6 +1778,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 2.在非大陆地区尝试使用代理上传   
   
 3.尝试更换网络（如共享手机热点网络给电脑）上传   
+
+&nbsp;    
+
 
 ### 1.3 生成器错误
 
@@ -1571,6 +1797,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 3.遇到什么情况？
 
 4.你的重现流程？ 
+
+&nbsp;    
+
 
 ## 2.高清屏查看设计图看着模糊
 
@@ -1593,6 +1822,9 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 缺点：在蓝湖内图多的情况下，因为设计图尺寸大，所以上传调整后上传的设计图位置需要重新调整。标注查看的时候，需要数值除以2。   
   
 自行根据自己的需求选解决方案，推荐方法A。   
+
+&nbsp;    
+
 
 ### 2.2 Sketch 插件上传的设计图，高清屏（4K屏）查看时模糊
 
