@@ -57,6 +57,9 @@
 .book .book-body .page-inner .magic_list li:hover a{
 	color:rgba(56,132,255,1);
 }
+.book .book-body .page-inner {
+	max-width:90%;
+}
 .navigation{
 	display: none !important;
 }

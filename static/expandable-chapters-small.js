@@ -5,8 +5,6 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       TRIGGER_TEMPLATE = '<i class="exc-trigger fa"></i>',
       LS_NAMESPACE = 'expChapters';
   
-  $('.navigation').remove();
-
   function createNavList(){
 
     var navList ='';
@@ -25,9 +23,9 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
         $.each(arr,function(i,ele){
 
             if(ele.children.length){
-              navList+='<li class="chapter add"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a>';
+              navList+='<li class="chapter add" data-sign="'+ele.id+'"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a>';
             }else{
-              navList+='<li class="chapter add"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a></li>';
+              navList+='<li class="chapter add" data-sign="'+ele.id+'"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a></li>';
             }
             
             if(ele.children.length){
@@ -88,7 +86,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
         $('.active').removeClass('active');
         $(this).addClass('active');
         expand($(this));
-        
+        console.log('expandexpandexpandexpand')
+
         e.stopPropagation();
         console.log('thishtiioooo',$(this))
       })
@@ -120,30 +119,6 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
   }
 
   
-  var init = function () {
-    
-    createNavList();
-
-    // adding the trigger element to each ARTICLES parent and binding the event
-    $(ARTICLES)
-      .parent(CHAPTER)
-      .children('a')
-      .append(
-        $(TRIGGER_TEMPLATE)
-          .on('click', function(e) {
-            e.preventDefault();
-            e.stopPropagation();
-            toggle($(e.target).closest(CHAPTER));
-          })
-      );
-    expand(lsItem());
-    //expand current selected chapter with it's parents
-    var activeChapter = $(CHAPTER + '.active');
-    expand(activeChapter);
-    expand(activeChapter.parents(CHAPTER));
-
-
-  } 
   var toggle = function ($chapter) {
     if ($chapter.hasClass('expanded')) {
       collapse($chapter);
@@ -181,8 +156,57 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       })
     }
   }
+
+
+  var init = function () {
+    
+    createNavList();
+
+    // adding the trigger element to each ARTICLES parent and binding the event
+    $(ARTICLES)
+      .parent(CHAPTER)
+      .children('a')
+      .append(
+        $(TRIGGER_TEMPLATE)
+          .on('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            toggle($(e.target).closest(CHAPTER));
+          })
+      );
+    expand(lsItem());
+    //expand current selected chapter with it's parents
+    var activeChapter = $(CHAPTER + '.active');
+    expand(activeChapter);
+    expand(activeChapter.parents(CHAPTER));
+
+  } 
+
+  //初始化页面导航列表结构
+  createNavList();
   
+  //展开当前页面列表
+  expand(lsItem());
+
+  // var path = ['quick_view','lan-hu-shi-pin-jiao-cheng','lan-hu-gong-neng-gai-lan','lan-hu-gong-neng-gai-lan']
+  
+  if(location.hash){
+  
+    var hash = decodeURIComponent(location.hash.slice(1));
+    var hashChapter =$(".chapter[data-sign='"+hash+"']");
+    
+
+    console.log(hashChapter)
+    setTimeout(function(){
+      location.hash = hash;
+      hashChapter.addClass('active')
+    },300)
+
+  }
+  
+
+
   gitbook.events.bind('page.change', function() {
-    init();  
+    init(); 
   }); 
 });
