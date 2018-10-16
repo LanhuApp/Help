@@ -4,7 +4,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       ARTICLES = '.articles',
       TRIGGER_TEMPLATE = '<i class="exc-trigger fa"></i>',
       LS_NAMESPACE = 'expChapters';
-      
+  
+  $('.navigation').remove();
 
   function createNavList(){
 
@@ -113,7 +114,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
         $(this).addClass('active');
       });
 
-    });
+    })
 
   }
 
