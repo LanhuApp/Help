@@ -4,6 +4,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       ARTICLES = '.articles',
       TRIGGER_TEMPLATE = '<i class="exc-trigger fa"></i>',
       LS_NAMESPACE = 'expChapters';
+      
+  $('.navigation').remove();
 
   function createNavList(){
 
@@ -23,9 +25,9 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
         $.each(arr,function(i,ele){
 
             if(ele.children.length){
-              navList+='<li class="chapter"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a>';
+              navList+='<li class="chapter add"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a>';
             }else{
-              navList+='<li class="chapter"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a></li>';
+              navList+='<li class="chapter add"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a></li>';
             }
             
             if(ele.children.length){
@@ -77,9 +79,10 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
 
     createHTML(arr);
+
     $('.chapter.active').append(navList);
 
-    $('.articles .chapter').each(function(){
+    $('.add').each(function(){
       $(this).click(function(e){
                 
         $('.active').removeClass('active');
@@ -92,21 +95,26 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
     
 
-    $('.summary').children().each(function(){
+    $('.summary').children().each(function(i,ele){
 
       var link = $(this).find('a').eq(0);
       var hash = link.text().trim().toLowerCase();
       var url = link.attr('href');
-
+      if(i){
+        $(this).append('<ul class="articles"><li></li></ul>');
+      }
+      
       link.attr('href',url+'#'+hash);
 
       $(this).click(function(e){
+        if($(this).attr('data-level')!='1.3'){
+          collapse($(".chapter[data-level='1.3']"));
+        }
         $('.active').removeClass('active');     
         $(this).addClass('active');
       });
 
     })
-
 
   }
 
@@ -172,13 +180,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       })
     }
   }
-
-
-  window.onload = function(){
-    init();
-  }
   
   gitbook.events.bind('page.change', function() {
-    init()
+    init();  
   }); 
 });
