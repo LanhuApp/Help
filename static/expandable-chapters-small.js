@@ -21,10 +21,11 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
         navList+='<ul class="articles">';
 
         $.each(arr,function(i,ele){
+
             if(ele.children.length){
-              navList+='<li class="chapter"><a href="'+baseURL+'#'+ele.id+'">'+ele.id+'</a>';
+              navList+='<li class="chapter"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a>';
             }else{
-              navList+='<li class="chapter"><a href="'+baseURL+'#'+ele.id+'">'+ele.id+'</a></li>';
+              navList+='<li class="chapter"><a href="'+baseURL+'#'+ele.id+'">'+ele.text+'</a></li>';
             }
             
             if(ele.children.length){
@@ -62,7 +63,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       if(i){  
         
         var jsonEl = {
-          id:$.trim($(ele).text()),
+          id:ele.id,
+          text:$.trim($(ele).text()),
           index:toNum(ele.tagName),
           children:[]
         };
