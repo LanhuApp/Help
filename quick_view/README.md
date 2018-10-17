@@ -11,7 +11,7 @@
 
 **➡️**[**（蓝湖 Sketch 插件下载地址）**](https://lanhuapp.com/mac)\*\*\*\*
 
-![](../../.gitbook/assets/1%20%285%29.png)
+![](../.gitbook/assets/1%20%285%29.png)
 
 
 
@@ -27,7 +27,7 @@
 
 ➡️[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)\*\*\*\*
 
-![](../../.gitbook/assets/1%20%288%29.png)
+![](../.gitbook/assets/1%20%288%29.png)
 
   
 选择要上传的设计图，或者一键上传所有设计图；
@@ -42,7 +42,7 @@
 
 ➡️[**（下载蓝湖 Adobe XD 插件地址）**](https://lanhuapp.com/xd)\*\*\*\*
 
-![](../../.gitbook/assets/1%20%289%29.png)
+![](../.gitbook/assets/1%20%289%29.png)
 
   
 ****选中需要导出的画板，导出到【蓝湖】，在【蓝湖 XD】程序中上传设计图；
