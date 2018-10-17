@@ -184,7 +184,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
   //初始化页面导航列表结构
   createNavList();
-  
+
   //展开当前页面列表
   expand(lsItem());
 
@@ -195,8 +195,6 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
     var hash = decodeURIComponent(location.hash.slice(1));
     var hashChapter =$(".chapter[data-sign='"+hash+"']");
     
-
-    console.log(hashChapter)
     setTimeout(function(){
       location.hash = hash;
       hashChapter.addClass('active')
