@@ -82,11 +82,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
     $('.add').each(function(){
       $(this).click(function(e){
-                
-        $('.active').removeClass('active');
-        $(this).addClass('active');
+        
         expand($(this));
-        console.log('expandexpandexpandexpand')
 
         e.stopPropagation();
         console.log('thishtiioooo',$(this))
@@ -94,8 +91,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
     })
 
     
-
-    $('.summary').children().each(function(i,ele){
+    var topChapters = $('.summary').children();
+    topChapters.each(function(i,ele){
 
       var link = $(this).find('a').eq(0);
       var hash = link.text().trim().toLowerCase();
@@ -107,11 +104,18 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       link.attr('href',url+'#'+hash);
 
       $(this).click(function(e){
-        if($(this).attr('data-level')!='1.3'){
-          collapse($(".chapter[data-level='1.3']"));
-        }
-        $('.active').removeClass('active');     
-        $(this).addClass('active');
+        // if($(this).attr('data-level')!='1.3'){
+        //   collapse($(".chapter[data-level='1.3']"));
+        // }
+
+        $(this).siblings('.chapter').each(function(){
+          collapse($(this));
+        })
+
+
+        // $('.active').removeClass('active expanded');     
+        // $(this).addClass('active expanded');
+
       });
 
     })
@@ -162,6 +166,11 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
     
     createNavList();
 
+    if(location.pathname=='/'){
+      localStorage.expChapters = '{}';
+    }
+   
+
     // adding the trigger element to each ARTICLES parent and binding the event
     $(ARTICLES)
       .parent(CHAPTER)
@@ -182,19 +191,16 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
   } 
 
-  //初始化页面导航列表结构
-  createNavList();
+  init();
 
-  //展开当前页面列表
-  expand(lsItem());
 
   // var path = ['quick_view','lan-hu-shi-pin-jiao-cheng','lan-hu-gong-neng-gai-lan','lan-hu-gong-neng-gai-lan']
   
   if(location.hash){
-  
+
     var hash = decodeURIComponent(location.hash.slice(1));
     var hashChapter =$(".chapter[data-sign='"+hash+"']");
-    
+
     setTimeout(function(){
       location.hash = hash;
       hashChapter.addClass('active')

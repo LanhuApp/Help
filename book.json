@@ -29,9 +29,12 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["expandable-chapters-small","html5-video","-search","search-pro"],
+    "plugins": ["ga","expandable-chapters-small","html5-video","-search","search-pro"],
     "pluginsConfig": {
-        "expandable-chapters-small":{}
+        "expandable-chapters-small":{},
+        "ga": {
+            "token": "UA-127675308-1"
+        }
     },
     "title": "Lanhu-help",
     "variables": {}
