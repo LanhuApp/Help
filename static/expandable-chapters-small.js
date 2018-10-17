@@ -104,18 +104,10 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       link.attr('href',url+'#'+hash);
 
       $(this).click(function(e){
-        // if($(this).attr('data-level')!='1.3'){
-        //   collapse($(".chapter[data-level='1.3']"));
-        // }
-
+        expand($(this));
         $(this).siblings('.chapter').each(function(){
           collapse($(this));
-        })
-
-
-        // $('.active').removeClass('active expanded');     
-        // $(this).addClass('active expanded');
-
+        });
       });
 
     })
@@ -168,8 +160,12 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
     if(location.pathname=='/'){
       localStorage.expChapters = '{}';
+    }else{
+      var exp = JSON.parse(localStorage.expChapters);
+      exp['undefined'] = true;
+      localStorage.expChapters = JSON.stringify(exp);
     }
-   
+    
 
     // adding the trigger element to each ARTICLES parent and binding the event
     $(ARTICLES)
@@ -202,6 +198,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
     var hashChapter =$(".chapter[data-sign='"+hash+"']");
 
     setTimeout(function(){
+
       location.hash = hash;
       hashChapter.addClass('active')
     },300)
