@@ -9,7 +9,7 @@
 ### Sketch 插件
 在项目首页左侧工具栏中，点击【相关下载】，即可下载蓝湖 Sketch 插件；安装后登录。
 
-**➡️**[**（蓝湖 Sketch 插件下载地址）**](https://lanhuapp.com/mac)\*\*\*\*
+**➡️**[**（蓝湖 Sketch 插件下载地址）**](https://lanhuapp.com/mac)
 
 ![](../.gitbook/assets/1%20%285%29.png)
 
@@ -25,7 +25,7 @@
 
 在项目首页左侧工具栏中，点击【相关下载】，即可下载蓝湖 Photoshop 插件；安装后登录。
 
-➡️[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)\*\*\*\*
+➡️[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)
 
 ![](../.gitbook/assets/1%20%288%29.png)
 
@@ -40,7 +40,7 @@
 
 在项目首页左侧工具栏中，点击【相关下载】，即可下载蓝湖 Adobe XD 插件；安装后登录。
 
-➡️[**（下载蓝湖 Adobe XD 插件地址）**](https://lanhuapp.com/xd)\*\*\*\*
+➡️[**（下载蓝湖 Adobe XD 插件地址）**](https://lanhuapp.com/xd)
 
 ![](../.gitbook/assets/1%20%289%29.png)
 
