@@ -5,6 +5,15 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       TRIGGER_TEMPLATE = '<i class="exc-trigger fa"></i>',
       LS_NAMESPACE = 'expChapters';
   
+  function count(el){
+
+    var text = $.trim(el.find('a').eq(0).text());         
+    ga('send', 'event', {
+        eventCategory: '点击列表',
+        eventAction: text,
+    });
+  }
+    
 
 
   function scrollFollow(){
@@ -69,15 +78,6 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
   scrollFollow();
 
 
-  function count(el){
-
-    var text = $.trim(el.find('a').eq(0).text());         
-    ga('send', 'event', {
-        eventCategory: '点击列表',
-        eventAction: text,
-    });
-  }
-
 
 
   function createNavList(){
@@ -131,7 +131,6 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
       }
 
     }
-    
 
     var arr = [];
     $('section :header').each(function(i,ele){
@@ -154,8 +153,6 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
     createHTML(arr);
 
-
-
     $('.chapter.active').append(navList);
 
     $('.add').each(function(){
@@ -163,11 +160,9 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
         
         expand($(this));
 
-        //统计
         count($(this));
-
         e.stopPropagation();
-        
+        console.log('thishtiioooo',$(this))
       })
     })
 
@@ -235,22 +230,14 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
   }
 
 
-
   var init = function () {
     
     createNavList();
 
-    var pathnameArr = ['quick_view','lan-hu-shi-pin-jiao-cheng','lan-hu-gong-neng-gai-lan','lan-hu-gong-neng-gai-lan']
-        
-    if(!pathnameArr.includes(location.pathname)){
+    if(location.pathname=='/help/'){
       localStorage.expChapters = '{}';
     }else{
-      if(localStorage.expChapters){
-        var exp = JSON.parse(localStorage.expChapters);
-      }else{
-        var exp = {};
-      }
-
+      var exp = JSON.parse(localStorage.expChapters);
       exp['undefined'] = true;
       localStorage.expChapters = JSON.stringify(exp);
     }
@@ -279,6 +266,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
   init();
 
 
+  // var path = ['quick_view','lan-hu-shi-pin-jiao-cheng','lan-hu-gong-neng-gai-lan','lan-hu-gong-neng-gai-lan']
   
   if(location.hash){
 
@@ -288,8 +276,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
     setTimeout(function(){
 
       location.hash = hash;
-      hashChapter.addClass('active');
-      
+      hashChapter.addClass('active')
     },300)
 
   }
