@@ -157,12 +157,8 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
     $('.add').each(function(){
       $(this).click(function(e){
-        
         expand($(this));
-
-        count($(this));
-        e.stopPropagation();
-        console.log('thishtiioooo',$(this))
+        count($(this)); 
       })
     })
 
@@ -192,10 +188,14 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
   
   var toggle = function ($chapter) {
+
     if ($chapter.hasClass('expanded')) {
       collapse($chapter);
     } else {
       expand($chapter);
+      var a = $chapter.find('a')
+      a[0].click();
+
     }
   }
   var collapse = function ($chapter) {
@@ -233,13 +233,16 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
   var init = function () {
     
     createNavList();
-
-    if(location.pathname=='/help/'){
+    
+    if(location.pathname=='/'){
       localStorage.expChapters = '{}';
     }else{
-      var exp = JSON.parse(localStorage.expChapters);
-      exp['undefined'] = true;
-      localStorage.expChapters = JSON.stringify(exp);
+      if(localStorage.expChapters){
+        var exp = JSON.parse(localStorage.expChapters);
+        exp['undefined'] = true;
+        localStorage.expChapters = JSON.stringify(exp);
+      }
+      
     }
     
 
@@ -253,9 +256,10 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
             e.preventDefault();
             e.stopPropagation();
             toggle($(e.target).closest(CHAPTER));
+
           })
       );
-    expand(lsItem());
+    // expand(lsItem());
     //expand current selected chapter with it's parents
     var activeChapter = $(CHAPTER + '.active');
     expand(activeChapter);

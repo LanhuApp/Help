@@ -63,3 +63,7 @@
 .navigation{
 	display: none !important;
 }
+
+.gitbook-link{
+	display: none !important;
+}

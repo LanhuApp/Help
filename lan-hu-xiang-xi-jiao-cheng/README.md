@@ -1170,7 +1170,6 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](../.gitbook/assets/5%20%283%29.png)
 
-![](https://images-cdn.shimo.im/orefWmjmPNkFuUKz/5.png!thumbnail)
 
 &nbsp;    
 
