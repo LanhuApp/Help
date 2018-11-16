@@ -3,7 +3,7 @@
 * [首页](README.md)
 
 ---
-* [一分钟快速教程](quick_view/README.md)
+* [一分钟教程](quick_view/README.md)
 
 ---
 * [详细教程](lan-hu-xiang-xi-jiao-cheng/README.md)

@@ -75,7 +75,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
   }    
 
-  scrollFollow();
+  // scrollFollow();
 
 
 
@@ -288,7 +288,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
   gitbook.events.bind('page.change', function() {
     init(); 
-    scrollFollow();
+    // scrollFollow();
     count($('.chapter.active'));
   }); 
 });
