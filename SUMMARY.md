@@ -1,17 +1,9 @@
 # Table of contents
 
 * [首页](README.md)
-
----
-* [一分钟教程](quick_view/README.md)
-
----
-* [详细教程](lan-hu-xiang-xi-jiao-cheng/README.md)
-
----
-* [功能概览](lan-hu-gong-neng-gai-lan/README.md)
-
----
+* [一分钟教程](quick_view.md)
+* [详细教程](lan-hu-xiang-xi-jiao-cheng.md)
+* [功能概览](lan-hu-gong-neng-gai-lan.md)
 * [视频教程](lan-hu-shi-pin-jiao-cheng/README.md)
   * [一.上传设计图（Sketch 插件）](lan-hu-shi-pin-jiao-cheng/1.md)
   * [二.上传设计图（Ps 插件）](lan-hu-shi-pin-jiao-cheng/2.md)
@@ -22,9 +14,4 @@
   * [七.演示原型](lan-hu-shi-pin-jiao-cheng/7.md)
   * [八.团队管理](lan-hu-shi-pin-jiao-cheng/8.md)
   * [九.项目管理](lan-hu-shi-pin-jiao-cheng/9.md)
-
-
-
-
- 
 
