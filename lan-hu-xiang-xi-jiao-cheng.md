@@ -1,21 +1,17 @@
 # 详细教程
 
-## 蓝湖详细教程
-
 ## 一. 上传设计图
 
 ### 1.Sketch 插件
 
-### 1.1 安装插件
+#### 1.1 安装插件
 点击首页右上角的【个人设置】图标，打开后，点击【下载】，即可下载蓝湖 Sketch 插件；
 安装成功后，请重启 Sketch。 
 
 👇[(下载蓝湖 Sketch 插件地址)](https://lanhuapp.com/mac)
 
-![](../.gitbook/assets/sk_plugin_1.png)
-&nbsp;    
+![](.gitbook/assets/sk_plugin_1.png)
 
-![](.gitbook/assets/1%20%281%29.png)
 
 #### 1.2 登录
 
@@ -124,7 +120,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)
 
-![](../.gitbook/assets/ps_plugin_1.png)
+![](.gitbook/assets/ps_plugin_1.png)
 &nbsp;    
 
 #### 2.2 登录
@@ -258,9 +254,9 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 
 👇[**（下载蓝湖 Adobe XD 插件地址）**](https://lanhuapp.com/xd)
 
-![](../.gitbook/assets/xd_plugin_1.png)
+![](.gitbook/assets/xd_plugin_1.png)
 &nbsp;    
-### 3.2 登录
+#### 3.2 登录
 
 启动【蓝湖 XD】程序，输入你的蓝湖帐号、密码登录；
 
@@ -276,7 +272,7 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 
 蓝湖官网：[lanhuapp.com](http://lanhuapp.com/)
 
-#### 3.4 选择“当前设计”
+#### 3.3 选择“当前设计”
 
 插件内 “当前设计” 是指当前设计图的大小，根据设计图大小选择对应倍数。
 
@@ -310,7 +306,7 @@ iPhone、iPad、iWatch这三种设备的界面设计 属于—— iOS；
 
 2x 是指为特定的屏幕（4k屏）设计的尺寸，通常该尺寸会是正常网页的2倍。  
 
-#### 3.3 设置切图
+#### 3.4 设置切图
 
 选择需要标记为切图的图层，在 Adobe XD 的组或图层上，点击【批量导出标记】后，即可完成切图设置；
 
@@ -764,14 +760,8 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 ![](.gitbook/assets/12%20%283%29.png)
 
+    
 #### 5.2 标注多选
-
-工程师通过在设计图上选择多个元素，就可以同时查看多个元素的标注信息，再也不用挨个点击了。
-
-如果你是 Windows 系统：按住 Ctrl 键，鼠标左键多选元素，即可完成【标注多选】；
-
-&nbsp;    
-### 5.2 标注多选
 
 
 工程师通过在设计图上选择多个元素，就可以同时查看多个元素的标注信息，再也不用挨个点击了。
@@ -781,9 +771,9 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 如果你是 Mac 系统：按住 Cmd 键，鼠标左键多选元素，即可完成【标注多选】。
 
 
-![](../.gitbook/assets/visit_auto_mark.gif)
+![](.gitbook/assets/visit_auto_mark.gif)
 
-### 5.3 标注百分比
+#### 5.3 标注百分比
 
 利用蓝湖【百分比标注】进行开发，工程师只需按百分比适配页面，界面就能在不同尺寸的手机、电脑上避免布局紊乱、内容叠加等问题。
 
@@ -792,9 +782,9 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 按住 Alt 键，即可查看所选元素所占对应图层的百分比，也能查看占整张设计图所占的百分比。
 
 
-![](../.gitbook/assets/auto_mark_percent.gif)
+![](.gitbook/assets/auto_mark_percent.gif)
 
-### 5.4 切换标注单位
+#### 5.4 切换标注单位
 
 点击标注面板右上方三角图标，打开标注单位列表，根据需要选择标注单位。
 
@@ -832,7 +822,7 @@ dp=pt
 * rem 应用于网页开发使用的单位
 
 &nbsp;    
-### 5.5 复制标注信息
+#### 5.5 复制标注信息
 
 鼠标单击标注数值即可自动复制。
 
@@ -840,7 +830,7 @@ dp=pt
 
 ![](.gitbook/assets/14.gif)
 
-### 5.6 切换颜色模式
+#### 5.6 切换颜色模式
 
 可在标注面板上，通过点击色块来切换颜色模式：16进制、RGB、RGBA。
 
@@ -849,7 +839,7 @@ dp=pt
 ![](.gitbook/assets/15-de-fu-ben.png)
 
 &nbsp;    
-### 5.7 分享标注
+#### 5.7 分享标注
 
 点击设计图详情页左侧工具栏中的“分享”按钮，复制链接，即可分享给团队同事。
 
@@ -878,26 +868,17 @@ dp=pt
 ![](.gitbook/assets/19%20%282%29.png)
 
 
-### 6.1 切图压缩
+#### 6.1 切图压缩
 
 在标注页面的切图下载按钮下方，选择【开启切图压缩】;
 
-![](../.gitbook/assets/zip_design_1.png)
+![](.gitbook/assets/zip_design_1.png)
 
 点击【下载切图】，就可以将无损压缩的切图下载下来。
 
-![](../.gitbook/assets/zip_design_2.gif)
+![](.gitbook/assets/zip_design_2.gif)
 
 &nbsp;    
-
-在标注页面的切图下载按钮下方，选择【开启切图压缩】;
-
-![](.gitbook/assets/23.png)
-
-  
-点击【下载切图】，就可以将无损压缩的切图下载下来。
-
-![](.gitbook/assets/24%20%281%29.gif)
 
 ### 7.查看 Sketch 原型
 
@@ -1154,13 +1135,11 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 #### 1.1 新建项目
 
-### 1.1 新建项目
-
 点击首页左侧上方的【新建】，选择【新建项目】； 
 
 👇
 
-![](../.gitbook/assets/item_manage_1.png)
+![](.gitbook/assets/item_manage_1.png)
 
 输入项目名称，选择项目类型，点击【确定】，即可新建项目。
 
@@ -1178,7 +1157,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 👇
 
-![](../.gitbook/assets/item_manage_2.png)
+![](.gitbook/assets/item_manage_2.png)
 
 &nbsp;    
 
@@ -1191,7 +1170,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 👇
 
-![](../.gitbook/assets/item_manage_3.png)
+![](.gitbook/assets/item_manage_3.png)
 
 进入项目设置页面，点击“名称”后的编辑按钮即可修改。
 
@@ -1211,7 +1190,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 👇
 
-![](../.gitbook/assets/item_manage_4.png)
+![](.gitbook/assets/item_manage_4.png)
 
 进入项目设置页面，可以重新选择项目类型。
 
@@ -1225,7 +1204,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 &nbsp;    
 
 
-## 2 项目分组管理
+### 2 项目分组管理
 
 只有团队的超级管理员和管理员才有项目分组的权限。
 
@@ -1244,7 +1223,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 输入项目分组名称，点击【确定】，即可新建项目分组。
 
 
-![](../.gitbook/assets/item_group_1.gif)
+![](.gitbook/assets/item_group_1.gif)
 
 &nbsp;    
 
@@ -1256,13 +1235,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 ✨PS：【项目分组】内项目为空，才能进行删除
 
 
-![](../.gitbook/assets/item_group_2.gif)
-
-
-方法二：点击左侧项目分组名称旁的【更多】，选择【删除】，即可删除该项目分组。
-
-![](../.gitbook/assets/item_group_3.gif)
-
+![](.gitbook/assets/item_group_2.gif)
 
   
 方法二：点击左侧项目分组名称旁的【更多】，选择【删除】，即可删除该项目分组。
@@ -1273,16 +1246,13 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 方法一：点击分组文件夹右下角的【设置】图标，选择【重命名】，输入新的名称，即可修改分组名称；
 
-![](../.gitbook/assets/item_group_4.gif)
+![](.gitbook/assets/item_group_4.gif)
 
 方法二：或者点击左侧项目分组名称旁的【更多】，选择【重命名】，输入新的名称，即可修改分组名称；
 
-![](../.gitbook/assets/item_group_5.gif)
+![](.gitbook/assets/item_group_5.gif)
 
 &nbsp;    
-
-  
-方法二：或者点击左侧项目分组名称旁的【更多】，选择【重命名】，输入新的名称，即可修改分组名称；
 
 #### 2.4 分组内添加项目
 
@@ -1290,7 +1260,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 （推荐该方法）
 
-![](../.gitbook/assets/item_group_6.gif)
+![](.gitbook/assets/item_group_6.gif)
 
 ✨PS：项目移动到不合适的分组怎么办？
 
@@ -1300,19 +1270,13 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 方法二：点击【项目卡片】右下角的设置图标，选择【移动至分组】，选择合适的分组，即可将该项目纳入该分组。
 
-![](../.gitbook/assets/item_group_7.gif)
+![](.gitbook/assets/item_group_7.gif)
 
-**✨PS：项目移动到不合适的分组怎么办？**
 
-拖拽项目到左侧正确的【项目分组】内，即可移动项目到合适的分组。
+### 3.项目成员管理
 
-方法二：点击【项目卡片】右下角的设置图标，选择【移动至分组】，选择合适的分组，即可将该项目纳入该分组。
 
-## 3.项目成员管理
-
-### 2.项目成员管理
-
-### 3.1 添加成员
+#### 3.1 添加成员
 
 只有该团队的超级管理员及管理员才有权限添加项目成员。
 
@@ -1354,9 +1318,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](.gitbook/assets/18.png)
 
-#### 2.2 移除成员
-
-### 3.2 移除成员
+#### 3.2 移除成员
 
 在首页，将鼠标移至项目卡片上，点击右上角出现的“更多”图标，选择【设置】；
 
@@ -1559,17 +1521,18 @@ iOS版可在 App Store 中搜索“蓝湖”直接下载；
 
 方法B：在ps内 图像&gt;画布大小,单位是百分比，调整成200%，然后用蓝湖上传 自检方法。
 
+![](.gitbook/assets/sk_question_2.png)
 &nbsp;    
 
 
-### 2.2 Sketch 插件上传的设计图，高清屏（4K屏）查看时模糊
+#### 2.2 Sketch 插件上传的设计图，高清屏（4K屏）查看时模糊
 
 原因: 你当前的设计图是按1倍像素密度绘制的，高清屏预览需要2倍的像素密度。   
   
 
 **★ 解决办法**
 
-![](../.gitbook/assets/sk_question_1.png)
+![](.gitbook/assets/sk_question_3.png)
 
 
 

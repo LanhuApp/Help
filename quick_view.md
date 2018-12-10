@@ -7,11 +7,8 @@
 
 👇[** (下载蓝湖 Sketch 插件地址) **](https://lanhuapp.com/mac)
 
-![](../.gitbook/assets/upload_design_1.png)
+![](.gitbook/assets/upload_design_1.png)
 
-**➡️**[**（蓝湖 Sketch 插件下载地址）**](https://lanhuapp.com/mac)
-
-![](.gitbook/assets/1%20%286%29.png)
 
 选择要上传的设计图，或者一键上传所有设计图；
 
@@ -23,7 +20,7 @@
 
 ➡️[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)
 
-![](../.gitbook/assets/upload_design_2.png)
+![](.gitbook/assets/upload_design_2.png)
 
 选择要上传的设计图，或者一键上传所有设计图；
 
@@ -37,7 +34,7 @@
 
 ![](.gitbook/assets/1%20%283%29.png)
 
-_\*\*_选中需要导出的画板，导出到【蓝湖】，在【蓝湖 XD】程序中上传设计图；
+选中需要导出的画板，导出到【蓝湖】，在【蓝湖 XD】程序中上传设计图；
 
 上传后，即可实现自动标注、一键切图、设计图树状连线、制作交互原型、设计图沟通等操作。
 
@@ -65,7 +62,7 @@ _\*\*_选中需要导出的画板，导出到【蓝湖】，在【蓝湖 XD】�
 &nbsp; 
 还能进行【标注多选】，选择多个元素，同时查看几个元素的标注信息；   
 
-![](../.gitbook/assets/auto_mark_1.gif)
+![](.gitbook/assets/auto_mark_1.gif)
 
 &nbsp;    
 &nbsp; 
@@ -73,16 +70,9 @@ _\*\*_选中需要导出的画板，导出到【蓝湖】，在【蓝湖 XD】�
 &nbsp; 
 选中元素后，按住 Alt 键即可查看元素所占的百分比，还能查看该元素在整张设计图所占的百分比。
 
-![](../.gitbook/assets/auto_mark_2.gif)
+![](.gitbook/assets/auto_mark_2.gif)
 
-&nbsp;    
 
-![](.gitbook/assets/21%20%281%29.gif)
-
-  
-****选中元素后，按住 Alt 键即可查看元素所占的百分比，还能查看该元素在整张设计图所占的百分比。
-
-![](.gitbook/assets/22.gif)
 
 ## 四.一键切图
 
@@ -98,9 +88,7 @@ _\*\*_选中需要导出的画板，导出到【蓝湖】，在【蓝湖 XD】�
 
 还可以选择【开启切图压缩】，点击【下载切图】，就可以将无损压缩的切图下载下来。
 
-还可以选择【开启切图压缩】，点击【下载切图】，就可以将无损压缩的切图下载下来。
-
-![](../.gitbook/assets/cut_3.gif)
+![](.gitbook/assets/cut_3.gif)
 
 &nbsp;
 
