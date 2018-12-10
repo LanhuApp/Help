@@ -7,11 +7,11 @@
 &nbsp;     
 
 ### Sketch 插件
-在项目首页左侧工具栏中，点击【相关下载】，即可下载蓝湖 Sketch 插件；安装后登录。
+点击首页右上角的【个人设置】图标，打开后，点击【下载】，即可下载蓝湖 Sketch 插件；安装后登录。
 
-**➡️**[**（蓝湖 Sketch 插件下载地址）**](https://lanhuapp.com/mac)
+👇[** (下载蓝湖 Sketch 插件地址) **](https://lanhuapp.com/mac)
 
-![](../.gitbook/assets/1%20%285%29.png)
+![](../.gitbook/assets/upload_design_1.png)
 
 
 
@@ -23,11 +23,11 @@
 
 ### Adobe Photoshop 插件
 
-在项目首页左侧工具栏中，点击【相关下载】，即可下载蓝湖 Photoshop 插件；安装后登录。
+点击首页右上角的【个人设置】图标，点击【下载】，即可下载蓝湖 Photoshop 插件；安装后登录。
 
 ➡️[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)
 
-![](../.gitbook/assets/1%20%288%29.png)
+![](../.gitbook/assets/upload_design_2.png)
 
   
 选择要上传的设计图，或者一键上传所有设计图；
@@ -38,7 +38,7 @@
 
 ### Adobe XD 插件
 
-在项目首页左侧工具栏中，点击【相关下载】，即可下载蓝湖 Adobe XD 插件；安装后登录。
+点击首页右上角的【个人设置】图标，点击【下载】，即可下载蓝湖 Adobe XD 插件；安装后登录。
 
 ➡️[**（下载蓝湖 Adobe XD 插件地址）**](https://lanhuapp.com/xd)
 
@@ -84,6 +84,22 @@
 ![](../.gitbook/assets/10%20%281%29.gif)
 
 &nbsp;    
+&nbsp; 
+&nbsp;    
+&nbsp; 
+还能进行【标注多选】，选择多个元素，同时查看几个元素的标注信息；   
+
+![](../.gitbook/assets/auto_mark_1.gif)
+
+&nbsp;    
+&nbsp; 
+&nbsp;    
+&nbsp; 
+选中元素后，按住 Alt 键即可查看元素所占的百分比，还能查看该元素在整张设计图所占的百分比。
+
+![](../.gitbook/assets/auto_mark_2.gif)
+
+&nbsp;    
 
 ---
 
@@ -104,6 +120,12 @@
 ![](../.gitbook/assets/17.gif)
 
 &nbsp;    
+
+还可以选择【开启切图压缩】，点击【下载切图】，就可以将无损压缩的切图下载下来。
+
+![](../.gitbook/assets/cut_3.gif)
+
+&nbsp;
 
 ---
 &nbsp;    
