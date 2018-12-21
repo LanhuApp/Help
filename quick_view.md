@@ -5,7 +5,7 @@
 ### Sketch 插件
 
 点击首页右上角的【个人设置】图标，打开后，点击【下载】，即可下载蓝湖 Sketch 插件；安装后登录。
-111
+
 👇[** (下载蓝湖 Sketch 插件地址) **](https://lanhuapp.com/mac)
 
 ![](.gitbook/assets/upload_design_1.png)
