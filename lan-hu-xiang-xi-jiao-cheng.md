@@ -397,7 +397,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/1%20%282%29.gif)
+![](.gitbook/assets/2-1.gif)
 
 #### 1.2 上传设计图
 
@@ -465,7 +465,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/7%20%281%29.gif)
+![](.gitbook/assets/2-7.gif)
 
 移动设计图之后，点击画布右下角“撤销”图标，即可撤销操作。
 
@@ -479,11 +479,11 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 点击画布上方“搜索”图标，输入设计图名称即可。
 
-👇 ![](.gitbook/assets/9.gif)
+👇 ![](.gitbook/assets/2-9.gif)
 
 💌 设计图搜索功能支持拼音。
 
-👇 ![](.gitbook/assets/10%20%282%29.png)
+👇 ![](.gitbook/assets/2-10.png)
 
 💌PS：
 
@@ -497,7 +497,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/11.gif)
+![](.gitbook/assets/2-11.gif)
 
 ### 2.设计图分组
 
@@ -507,7 +507,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 点击选择要添加至分组的设计图，然后【确定】 ；
 
-输入“分组名称”，点击【确定】即可。 
+输入“分组名称”，点击【确定】即可。
 
 👇
 
@@ -537,14 +537,13 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/15.gif)
+![](.gitbook/assets/2-15.gif)
 
 或者点击分组名称旁的【拓展】图标，选择【重命名】，输入正确的名字，点击确定，即可。
 
 👇
 
 ![](.gitbook/assets/2-33.png)
-
 
 **③ 删除分组**
 
@@ -560,7 +559,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/17%20%284%29.gif)
+![](.gitbook/assets/2-17.gif)
 
 💌 不打开编辑模式 也可修改分组排序。
 
@@ -576,7 +575,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/18.gif)
+![](.gitbook/assets/2-18.gif)
 
 #### 3.2 取消状态图
 
@@ -584,7 +583,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/19.gif)
+![](.gitbook/assets/2-19.gif)
 
 #### 3.3 删除状态图
 
@@ -592,7 +591,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/20%20%281%29.gif)
+![](.gitbook/assets/2-20.gif)
 
 ### 4.画布管理
 
@@ -604,13 +603,13 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/21%20%282%29.gif)
+![](.gitbook/assets/2-21.gif)
 
 或长按“空格”键，进入抓手模式，点击画布任意地方都可以拖拽画布。
 
 👇
 
-![](.gitbook/assets/22%20%282%29.gif)
+![](.gitbook/assets/2-22.gif)
 
 #### 4.2 分享画布
 
@@ -618,7 +617,7 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 👇
 
-![](.gitbook/assets/23%20%281%29.png)
+![](.gitbook/assets/2-23.png)
 
 **① 选择【分享画布及标注】**
 
@@ -656,11 +655,17 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 ### 6.逻辑连线
 
-鼠标左键分别点击两张设计图，便可在它们中间绘制一条跳转连线。 该连线可 一对多 展示设计图关系。
+点击画布页上方的【连线】图标，或者快捷键 L，即可进入设计图连线模式；
+👇
+
+![](.gitbook/assets/2-34.png)
+
+
+鼠标左键分别点击两张设计图，便可在它们中间绘制一条跳转连线。 该连线可一对多展示设计图关系。
 
 👇
 
-![](.gitbook/assets/27%20%281%29.gif)
+![](.gitbook/assets/2-27.gif)
 
 ### 7.项目文档
 
@@ -702,7 +707,7 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 👇
 
-![](.gitbook/assets/32.gif)
+![](.gitbook/assets/2-32.gif)
 
 #### 7.3 删除文件/链接
 
@@ -710,7 +715,7 @@ Axure 压缩包 / Word / Excel / PowerPoint / PDF / 任意链接
 
 👇
 
-![](.gitbook/assets/31.gif)
+![](.gitbook/assets/2-31.gif)
 
 ## 三.标注详情页
 
@@ -925,7 +930,6 @@ dp=pt
 
 ![](.gitbook/assets/19%20%282%29.png)
 
-
 ✨PS：如何同时一键下载多张设计图的全部切图？
 
 在画布页面，按住 Shift + 鼠标左键选择多张设计图，或者，鼠标右键拖拽可框选设计图 ;
@@ -978,7 +982,21 @@ dp=pt
 
 ![](.gitbook/assets/2%20%289%29.png)
 
-### 3.演示原型
+
+### 3.固定设计图顶部底部
+
+在原型设置页面，固定设计图的顶部底部之后，在演示原型时，固定的顶部底部，都会显示在演示界面的上下两端。
+
+在设计图的左侧的顶部/底部，皆有一个可以上下拉动的滑块，将滑块移动到某一位置，即可固定设计图的顶部/底部；
+
+演示时，滑块移动到的位置，即可固定在演示设备的顶/底部。
+
+👇
+
+![](.gitbook/assets/4-9.gif)
+
+
+### 4.演示原型
 
 点击原型页左侧的“演示”按钮，即可预览并操作制作好的原型。
 
@@ -1002,13 +1020,13 @@ dp=pt
 
 Web 类型的项目 设计图会直接平铺展示。（5 秒后会自动隐藏左侧菜单，点击无跳转的区域后，菜单再次显示）
 
-### 4.返回上一页
+### 5.返回上一页
 
 **返回来源页。**
 
 比如：若页面 a、页面 b、页面 c、等多个页面都可以跳转至同一个页面 e，则页面 e 的返回键可直接链接到右侧设计图列表中的“返回”，即从哪个页面进入，便返回至哪个页面。
 
-### 5.分享原型（支持分享到 UI 中国）
+### 6.分享原型（支持分享到 UI 中国）
 
 点击原型预览界面左侧的“分享”按钮，直接复制原型链接；
 
@@ -1020,7 +1038,7 @@ Web 类型的项目 设计图会直接平铺展示。（5 秒后会自动隐藏�
 
 ![](.gitbook/assets/6%20%283%29.png)
 
-### 6.共享 Sketch 中绘制的原型
+### 7.共享 Sketch 中绘制的原型
 
 在 Sketch 49（及以上版本）中做好的交互原型，通过蓝湖插件上传设计图后，该 Sketch 中的原型会直接同步至蓝湖。 （Sketch 插件的版本需要是 0.94 以上）
 
@@ -1197,7 +1215,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 #### 2.3 成员分组
 
-只有该团队的超级管理员及管理员有权限进行成员分组管理。 
+只有该团队的超级管理员及管理员有权限进行成员分组管理。
 
 在首页左侧功能栏中选择【管理团队】，进入团队管理页面。
 
@@ -1205,7 +1223,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](.gitbook/assets/5_1_1.png)
 
-**1️⃣创建分组**
+**1️⃣ 创建分组**
 
 点击团队管理页面左侧的【创建分组】图标，输入分组名称，点击【确定】，即可创建一个新的分组。
 
@@ -1213,7 +1231,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](.gitbook/assets/5-22.gif)
 
-**2️⃣删除分组**
+**2️⃣ 删除分组**
 
 点击分组名称旁的【拓展】图标，选择【删除】，点击【确定】，即可删除该成员分组。
 
@@ -1221,19 +1239,17 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 👇
 
-
 ![](.gitbook/assets/5-23.gif)
 
-**3️⃣更改分组名称**
+**3️⃣ 更改分组名称**
 
 点击分组名称旁的【拓展】图标，选择【重命名】，输入修改后面的名字，点击【确定】即可修改分组名称。
 
 👇
 
-
 ![](.gitbook/assets/5-24.gif)
 
-**4️⃣分组内添加成员**
+**4️⃣ 分组内添加成员**
 
 找到需要添加到分组内的成员，将其拖拽到合适的分组即可。
 
@@ -1245,10 +1261,9 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 将其拖拽到合适的分组即可。
 
-
 #### 2.4 调整成员参与项目
 
-只有该团队的超级管理员及管理员有权限进行成员分组管理。 
+只有该团队的超级管理员及管理员有权限进行成员分组管理。
 
 在首页左侧功能栏中选择【管理团队】，进入团队管理页面。
 
@@ -1260,7 +1275,6 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 👇
 
-
 ![](.gitbook/assets/5-26.png)
 
 打开后，勾选下方【所参与的项目】，即可调整该成员参与的项目。
@@ -1271,11 +1285,11 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 #### 2.5 成员权限
 
-**1️⃣更改成员权限**
+**1️⃣ 更改成员权限**
 
-只有该团队的超级管理员及管理员有权限更改成员权限。 
+只有该团队的超级管理员及管理员有权限更改成员权限。
 
-在首页左侧功能栏中选择【管理团队】； 
+在首页左侧功能栏中选择【管理团队】；
 
 👇
 
@@ -1289,8 +1303,7 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 ![](.gitbook/assets/5-28.gif)
 
-
-**2️⃣成员权限说明**
+**2️⃣ 成员权限说明**
 
 ![](.gitbook/assets/20.png)
 
@@ -1347,7 +1360,6 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 #### 1.4 切换项目类型
 
 只有该团队的超级管理员及管理员才有权限切换项目类型。
-
 
 在首页，将鼠标移至项目卡片上，点击右下角出现的“更多”图标，选择【设置】；
 
