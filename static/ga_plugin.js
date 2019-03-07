@@ -17,7 +17,7 @@ require(["gitbook"], function(gitbook) {
                 try{
                     if(location.search){
                         var from = location.search.slice(1).split('=')[1];
-                        MtaH5.clickStat('open_sos',{'from':from})
+                        MtaH5.clickStat('open_sos',{'from':decodeURIComponent(from)})
                     }
                 }catch(err){
                     console.log(err);
