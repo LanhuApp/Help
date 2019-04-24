@@ -12,9 +12,13 @@
 
 ![](.gitbook/assets/ge-ren-she-zhi.png)
 
-## 画布页
+## 【设计】页
 
-![](.gitbook/assets/hua-bu-ye.png)
+![](.gitbook/assets/she-ji-ye.png)
+
+## 【产品】页
+
+![](.gitbook/assets/chan-pin-ye.png)
 
 ## 标注详情页
 
