@@ -6,12 +6,13 @@
 
 #### 1.1 安装插件
 
-点击首页右上角的【个人设置】图标，打开后，点击【下载】，即可下载蓝湖 Sketch 插件；
-安装成功后，请重启 Sketch。
+点击首页右上角的【下载】图标，打开后，即可下载蓝湖 Sketch 插件；
+
+安装成功后，请重启 Sketch。 
 
 👇[(下载蓝湖 Sketch 插件地址)](https://lanhuapp.com/mac)
 
-![](.gitbook/assets/sk_plugin_1.png)
+![](.gitbook/assets/1-1.png)
 
 #### 1.2 登录
 
@@ -141,14 +142,15 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 #### 2.1 安装插件
 
-点击首页右上角的【个人设置】图标，打开后，点击【下载】，即可下载蓝湖 Photoshop 插件；
-安装成功后，请重启 Photoshop。
+点击首页右上角的【下载】图标，打开后，即可下载蓝湖 Photoshop 插件；
+
+安装成功后，请重启 Photoshop。 
 
 ★ 注：蓝湖 Ps 插件仅支持 Photoshop CC 2015 及以上版本 。
 
 👇[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)
 
-![](.gitbook/assets/ps_plugin_1.png)
+![](.gitbook/assets/1-2.png)
 &nbsp;
 
 #### 2.2 登录
@@ -277,14 +279,15 @@ PS：不勾选“显示切图区域”即可隐藏切图区域，该切图区域
 
 #### 3.1 安装插件
 
-点击首页右上角的【个人设置】图标，打开后，点击【下载】，即可下载蓝湖 Adobe XD 插件；
+点击首页右上角的【下载】图标，打开后，即可下载蓝湖 Adobe XD 插件；
+
 安装成功后，启动 Adobe XD。
 
 ★ 注：蓝湖 Adobe XD 插件支持 Adobe XD cc 及以上版本，且支持 Windows 和 Mac 双系统。
 
 👇[**（下载蓝湖 Adobe XD 插件地址）**](https://lanhuapp.com/xd)
 
-![](.gitbook/assets/xd_plugin_1.png)
+![](.gitbook/assets/1-3.png)
 &nbsp;
 
 #### 3.2 登录
@@ -883,6 +886,12 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 ![](.gitbook/assets/12-28.gif)
 
+P.S.如果在 Axure 上有对元素进行的说明，上传到蓝湖之后，在进行过说明的元素右上角有一个蓝色图标，点击后，即可查看针对这个元素的页面说明。
+
+👇
+
+![](.gitbook/assets/12-29.gif)
+
 
 
 
@@ -955,12 +964,24 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 #### - 查看评论
 
-点击页面右上角“评论列表”图标，即可查看该文档当前页面上所有的评论信息。
-
+点击页面左上角的【评论与说明】图标，即可查看该 Axure 文档每一个版本当前页面上所有的评论信息。
 
 👇
 
 ![](.gitbook/assets/12-17.png)
+
+在打开的评论列表中，勾选【仅看当前版本】，只展示该 Axure 文档当前版本的所有评论信息，否则评论列表将展示针对该页面所有版本进行的打点评论。
+
+👇
+
+![](.gitbook/assets/12-31.gif)
+
+P.S.如果在该文档页面有”评论批注“，在页面左侧的”文档目录“的当前页面右侧会显示【当前页面有批注】图标。
+
+👇
+
+![](.gitbook/assets/12-36.png)
+
 
 #### - 移动评论点位置
 
@@ -1012,7 +1033,29 @@ iPhone、iPad、iWatch 这三种设备的界面设计 属于—— iOS；
 
 ![](.gitbook/assets/12-21.gif)
 
+如果需要删除已上传的 Axure 文档，点击上方的【历史版本】，进入历史版本管理页之后，在左侧的文档版本列表中选择需要删除的版本，进入该版本后，点击右下角的【删除版本】，即可删除当前版本的 Axure 文档。
 
+👇
+
+![](.gitbook/assets/12-37.png)
+
+
+#### -Axure 文档版本对比
+
+将 Axure 文档上传到蓝湖之后，如果文档有修改更新，在该页面名称旁鼠标悬浮时会显示“版本对比”按钮；
+
+
+👇
+
+![](.gitbook/assets/12-34.png)
+
+
+开启后，该页面新版本和旧版本有更新出将会用蓝色虚线框出，方便查看，避免文档变化细节的漏看。
+
+
+👇
+
+![](.gitbook/assets/12-38.gif)
 
 #### - Word / PDF / Excel / PPT 格式文档
 
@@ -1498,17 +1541,12 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 #### 1.2 创建新团队
 
-在首页左侧功能栏中选择【切换/创建团队】；
+点击首页左侧团队名称旁的【更多】图标，选择【创建新团队】； 👇
 
 👇
 
-![](.gitbook/assets/5_1_3.png)
+![](.gitbook/assets/5-1-3.png)
 
-打开后，选择【创建新团队】；
-
-👇
-
-![](.gitbook/assets/4%20%287%29.png)
 
 填写“团队名称”，点击【创建】即可创建一个新的团队。
 
@@ -1516,16 +1554,13 @@ Sketch 插件下载地址：[https://lanhuapp.com/mac](https://lanhuapp.com/mac)
 
 #### 1.3 切换团队
 
-点击首页左侧最上面的团队名称旁的【拓展图标】，选择【切换/创建团队】；
+点击首页左侧最上面的团队名称旁的【拓展图标】，就能展开你所在的所有团队，选择需要切换的团队名称即可；
 
 👇
 
-![](.gitbook/assets/5_1_3.png)
+![](.gitbook/assets/5-1-3.gif)
 
-打开后，选择需要切换的团队名称即可。  
-👇
 
-![](.gitbook/assets/7%20%282%29.png)
 
 #### 1.4 移交团队
 

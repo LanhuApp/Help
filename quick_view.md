@@ -4,11 +4,11 @@
 
 ### Sketch 插件
 
-点击首页右上角的【个人设置】图标，打开后，点击【下载】，即可下载蓝湖 Sketch 插件；安装后登录。
+点击首页右上角的【下载】图标，打开后，即可下载蓝湖 Sketch 插件；安装后登录。
 
 👇[** (下载蓝湖 Sketch 插件地址) **](https://lanhuapp.com/mac)
 
-![](.gitbook/assets/upload_design_1.png)
+![](.gitbook/assets/1-1.png)
 
 选择要上传的设计图，或者一键上传所有设计图；
 
@@ -16,11 +16,11 @@
 
 ### Adobe Photoshop 插件
 
-点击首页右上角的【个人设置】图标，点击【下载】，即可下载蓝湖 Photoshop 插件；安装后登录。
+点击首页右上角的【下载】图标，打开后，即可下载蓝湖 Photoshop 插件；安装后登录。
 
 ➡️[**（下载蓝湖 Photoshop 插件地址）**](https://lanhuapp.com/ps)
 
-![](.gitbook/assets/upload_design_2.png)
+![](.gitbook/assets/1-2.png)
 
 选择要上传的设计图，或者一键上传所有设计图；
 
@@ -28,11 +28,11 @@
 
 ### Adobe XD 插件
 
-点击首页右上角的【个人设置】图标，点击【下载】，即可下载蓝湖 Adobe XD 插件；安装后登录。
+点击首页右上角的【下载】图标，打开后，即可下载蓝湖 Adobe XD 插件；安装后登录。
 
 ➡️[**（下载蓝湖 Adobe XD 插件地址）**](https://lanhuapp.com/xd)
 
-![](.gitbook/assets/1%20%283%29.png)
+![](.gitbook/assets/1-3.png)
 
 选中需要导出的画板，导出到【蓝湖】，在【蓝湖 XD】程序中上传设计图；
 
@@ -136,7 +136,7 @@
 
 ![](.gitbook/assets/12-16.gif)
 
-蓝湖还会为你保存产品文档的历史版本，避免文件丢失造成的损失。
+蓝湖还会为你保存产品文档的历史版本，避免文件丢失造成的损失；在内容有更新的页面，团队成员还可以对比查看版本间的页面变化。
 
 👇
 
